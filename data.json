@@ -1,0 +1,5394 @@
+[
+  {
+    "genre": "Action",
+    "title": "The Promise",
+    "year": 2005,
+    "douban": 8.9,
+    "imdb": 5.6,
+    "diff": 3.3000000000000007
+  },
+  {
+    "genre": "Action",
+    "title": "Catwoman",
+    "year": 2004,
+    "douban": 5.9,
+    "imdb": 3.3,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "Action",
+    "title": "2012",
+    "year": 2009,
+    "douban": 8.0,
+    "imdb": 5.8,
+    "diff": 2.2
+  },
+  {
+    "genre": "Action",
+    "title": "The Matrix Revolutions",
+    "year": 2003,
+    "douban": 8.8,
+    "imdb": 6.7,
+    "diff": 2.1000000000000005
+  },
+  {
+    "genre": "Action",
+    "title": "Pearl Harbor",
+    "year": 2001,
+    "douban": 8.1,
+    "imdb": 6.1,
+    "diff": 2.0
+  },
+  {
+    "genre": "Action",
+    "title": "The Day After Tomorrow",
+    "year": 2004,
+    "douban": 8.3,
+    "imdb": 6.4,
+    "diff": 1.9000000000000004
+  },
+  {
+    "genre": "Action",
+    "title": "Resident Evil: Apocalypse",
+    "year": 2004,
+    "douban": 8.0,
+    "imdb": 6.2,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "Action",
+    "title": "Ghost Rider: Spirit of Vengeance",
+    "year": 2011,
+    "douban": 6.0,
+    "imdb": 4.3,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Action",
+    "title": "Johnny English",
+    "year": 2003,
+    "douban": 7.8,
+    "imdb": 6.1,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Action",
+    "title": "Miami Vice",
+    "year": 2006,
+    "douban": 5.8,
+    "imdb": 7.5,
+    "diff": -1.7000000000000002
+  },
+  {
+    "genre": "Action",
+    "title": "Stealth",
+    "year": 2005,
+    "douban": 6.7,
+    "imdb": 5.0,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Action",
+    "title": "Windtalkers",
+    "year": 2002,
+    "douban": 7.7,
+    "imdb": 6.0,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Action",
+    "title": "Vertical Limit",
+    "year": 2000,
+    "douban": 7.6,
+    "imdb": 5.9,
+    "diff": 1.6999999999999993
+  },
+  {
+    "genre": "Action",
+    "title": "D.E.B.S.",
+    "year": 2004,
+    "douban": 6.9,
+    "imdb": 5.3,
+    "diff": 1.6000000000000005
+  },
+  {
+    "genre": "Action",
+    "title": "Resident Evil",
+    "year": 2002,
+    "douban": 8.3,
+    "imdb": 6.7,
+    "diff": 1.6000000000000005
+  },
+  {
+    "genre": "Action",
+    "title": "Ghost Rider",
+    "year": 2007,
+    "douban": 6.8,
+    "imdb": 5.2,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Action",
+    "title": "Miracle at St. Anna",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 6.0,
+    "diff": 1.5
+  },
+  {
+    "genre": "Action",
+    "title": "AVP: Alien vs. Predator",
+    "year": 2004,
+    "douban": 7.1,
+    "imdb": 5.6,
+    "diff": 1.5
+  },
+  {
+    "genre": "Action",
+    "title": "Last Action Hero",
+    "year": 1993,
+    "douban": 7.7,
+    "imdb": 6.2,
+    "diff": 1.5
+  },
+  {
+    "genre": "Action",
+    "title": "Charlie's Angels",
+    "year": 2000,
+    "douban": 7.0,
+    "imdb": 5.5,
+    "diff": 1.5
+  },
+  {
+    "genre": "Action",
+    "title": "xXx",
+    "year": 2002,
+    "douban": 7.3,
+    "imdb": 5.8,
+    "diff": 1.5
+  },
+  {
+    "genre": "Action",
+    "title": "G.I. Joe: The Rise of Cobra",
+    "year": 2009,
+    "douban": 7.3,
+    "imdb": 5.8,
+    "diff": 1.5
+  },
+  {
+    "genre": "Action",
+    "title": "The Matrix Reloaded",
+    "year": 2003,
+    "douban": 8.7,
+    "imdb": 7.2,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Action",
+    "title": "Kingdom of Heaven",
+    "year": 2005,
+    "douban": 8.7,
+    "imdb": 7.2,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Action",
+    "title": "The Young and Prodigious T.S. Spivet",
+    "year": 2013,
+    "douban": 8.5,
+    "imdb": 7.1,
+    "diff": 1.4000000000000004
+  },
+  {
+    "genre": "Action",
+    "title": "Minions",
+    "year": 2015,
+    "douban": 7.8,
+    "imdb": 6.4,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Action",
+    "title": "The Core",
+    "year": 2003,
+    "douban": 6.8,
+    "imdb": 5.4,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Action",
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "year": 2002,
+    "douban": 8.1,
+    "imdb": 6.7,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Action",
+    "title": "Lara Croft: Tomb Raider",
+    "year": 2001,
+    "douban": 7.1,
+    "imdb": 5.7,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Action",
+    "title": "Pirates of the Caribbean: At World's End",
+    "year": 2007,
+    "douban": 8.4,
+    "imdb": 7.1,
+    "diff": 1.3000000000000007
+  },
+  {
+    "genre": "Adventure",
+    "title": "Home",
+    "year": 2015,
+    "douban": 9.2,
+    "imdb": 6.7,
+    "diff": 2.499999999999999
+  },
+  {
+    "genre": "Adventure",
+    "title": "The Twilight Saga: New Moon",
+    "year": 2009,
+    "douban": 6.9,
+    "imdb": 4.6,
+    "diff": 2.3000000000000007
+  },
+  {
+    "genre": "Adventure",
+    "title": "2012",
+    "year": 2009,
+    "douban": 8.0,
+    "imdb": 5.8,
+    "diff": 2.2
+  },
+  {
+    "genre": "Adventure",
+    "title": "Babe: Pig in the City",
+    "year": 1998,
+    "douban": 7.9,
+    "imdb": 5.8,
+    "diff": 2.1000000000000005
+  },
+  {
+    "genre": "Adventure",
+    "title": "Last Holiday",
+    "year": 2006,
+    "douban": 8.4,
+    "imdb": 6.4,
+    "diff": 2.0
+  },
+  {
+    "genre": "Adventure",
+    "title": "Meet Dave",
+    "year": 2008,
+    "douban": 6.9,
+    "imdb": 4.9,
+    "diff": 2.0
+  },
+  {
+    "genre": "Adventure",
+    "title": "Return to Never Land",
+    "year": 2002,
+    "douban": 7.8,
+    "imdb": 5.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "Adventure",
+    "title": "The Day After Tomorrow",
+    "year": 2004,
+    "douban": 8.3,
+    "imdb": 6.4,
+    "diff": 1.9000000000000004
+  },
+  {
+    "genre": "Adventure",
+    "title": "The Pink Panther",
+    "year": 2006,
+    "douban": 7.4,
+    "imdb": 5.6,
+    "diff": 1.8000000000000007
+  },
+  {
+    "genre": "Adventure",
+    "title": "The Twilight Saga: Breaking Dawn - Part 2",
+    "year": 2012,
+    "douban": 7.3,
+    "imdb": 5.5,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "Adventure",
+    "title": "Johnny English",
+    "year": 2003,
+    "douban": 7.8,
+    "imdb": 6.1,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Adventure",
+    "title": "Stealth",
+    "year": 2005,
+    "douban": 6.7,
+    "imdb": 5.0,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Adventure",
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "year": 2015,
+    "douban": 7.7,
+    "imdb": 6.0,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Adventure",
+    "title": "Vertical Limit",
+    "year": 2000,
+    "douban": 7.6,
+    "imdb": 5.9,
+    "diff": 1.6999999999999993
+  },
+  {
+    "genre": "Adventure",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "douban": 9.2,
+    "imdb": 7.5,
+    "diff": 1.6999999999999993
+  },
+  {
+    "genre": "Adventure",
+    "title": "Charlie and the Chocolate Factory",
+    "year": 2005,
+    "douban": 8.3,
+    "imdb": 6.7,
+    "diff": 1.6000000000000005
+  },
+  {
+    "genre": "Adventure",
+    "title": "A.I. Artificial Intelligence",
+    "year": 2001,
+    "douban": 8.7,
+    "imdb": 7.1,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Adventure",
+    "title": "G.I. Joe: The Rise of Cobra",
+    "year": 2009,
+    "douban": 7.3,
+    "imdb": 5.8,
+    "diff": 1.5
+  },
+  {
+    "genre": "Adventure",
+    "title": "Charlie's Angels",
+    "year": 2000,
+    "douban": 7.0,
+    "imdb": 5.5,
+    "diff": 1.5
+  },
+  {
+    "genre": "Adventure",
+    "title": "xXx",
+    "year": 2002,
+    "douban": 7.3,
+    "imdb": 5.8,
+    "diff": 1.5
+  },
+  {
+    "genre": "Adventure",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "year": 2002,
+    "douban": 8.9,
+    "imdb": 7.4,
+    "diff": 1.5
+  },
+  {
+    "genre": "Adventure",
+    "title": "Last Action Hero",
+    "year": 1993,
+    "douban": 7.7,
+    "imdb": 6.2,
+    "diff": 1.5
+  },
+  {
+    "genre": "Adventure",
+    "title": "The SpongeBob SquarePants Movie",
+    "year": 2004,
+    "douban": 8.5,
+    "imdb": 7.0,
+    "diff": 1.5
+  },
+  {
+    "genre": "Adventure",
+    "title": "Kingdom of Heaven",
+    "year": 2005,
+    "douban": 8.7,
+    "imdb": 7.2,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Adventure",
+    "title": "The Young and Prodigious T.S. Spivet",
+    "year": 2013,
+    "douban": 8.5,
+    "imdb": 7.1,
+    "diff": 1.4000000000000004
+  },
+  {
+    "genre": "Adventure",
+    "title": "Lara Croft: Tomb Raider",
+    "year": 2001,
+    "douban": 7.1,
+    "imdb": 5.7,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Adventure",
+    "title": "The Core",
+    "year": 2003,
+    "douban": 6.8,
+    "imdb": 5.4,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Adventure",
+    "title": "The Croods",
+    "year": 2013,
+    "douban": 8.7,
+    "imdb": 7.3,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Adventure",
+    "title": "Rat Race",
+    "year": 2001,
+    "douban": 7.8,
+    "imdb": 6.4,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Adventure",
+    "title": "Eight Below",
+    "year": 2006,
+    "douban": 8.7,
+    "imdb": 7.3,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Animation",
+    "title": "Garfield",
+    "year": 2004,
+    "douban": 7.8,
+    "imdb": 5.0,
+    "diff": 2.8
+  },
+  {
+    "genre": "Animation",
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "year": 2009,
+    "douban": 7.2,
+    "imdb": 4.5,
+    "diff": 2.7
+  },
+  {
+    "genre": "Animation",
+    "title": "Home",
+    "year": 2015,
+    "douban": 9.2,
+    "imdb": 6.7,
+    "diff": 2.499999999999999
+  },
+  {
+    "genre": "Animation",
+    "title": "Return to Never Land",
+    "year": 2002,
+    "douban": 7.8,
+    "imdb": 5.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "Animation",
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "year": 2015,
+    "douban": 7.7,
+    "imdb": 6.0,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Animation",
+    "title": "The SpongeBob SquarePants Movie",
+    "year": 2004,
+    "douban": 8.5,
+    "imdb": 7.0,
+    "diff": 1.5
+  },
+  {
+    "genre": "Animation",
+    "title": "The Croods",
+    "year": 2013,
+    "douban": 8.7,
+    "imdb": 7.3,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Animation",
+    "title": "Minions",
+    "year": 2015,
+    "douban": 7.8,
+    "imdb": 6.4,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Animation",
+    "title": "Lilo & Stitch",
+    "year": 2002,
+    "douban": 8.6,
+    "imdb": 7.2,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Animation",
+    "title": "Rio",
+    "year": 2011,
+    "douban": 8.3,
+    "imdb": 7.0,
+    "diff": 1.3000000000000007
+  },
+  {
+    "genre": "Animation",
+    "title": "Dinosaur",
+    "year": 2000,
+    "douban": 7.7,
+    "imdb": 6.5,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Animation",
+    "title": "Valiant",
+    "year": 2005,
+    "douban": 6.7,
+    "imdb": 5.6,
+    "diff": 1.1000000000000005
+  },
+  {
+    "genre": "Animation",
+    "title": "Penguins of Madagascar",
+    "year": 2014,
+    "douban": 7.8,
+    "imdb": 6.7,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Animation",
+    "title": "Madagascar: Escape 2 Africa",
+    "year": 2008,
+    "douban": 7.8,
+    "imdb": 6.7,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Animation",
+    "title": "Ice Age",
+    "year": 2002,
+    "douban": 8.7,
+    "imdb": 7.6,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Animation",
+    "title": "Monsters University",
+    "year": 2013,
+    "douban": 8.3,
+    "imdb": 7.3,
+    "diff": 1.0000000000000009
+  },
+  {
+    "genre": "Animation",
+    "title": "Hotel Transylvania",
+    "year": 2012,
+    "douban": 8.1,
+    "imdb": 7.1,
+    "diff": 1.0
+  },
+  {
+    "genre": "Animation",
+    "title": "The Secret Life of Pets",
+    "year": 2016,
+    "douban": 7.8,
+    "imdb": 6.8,
+    "diff": 1.0
+  },
+  {
+    "genre": "Animation",
+    "title": "Cars",
+    "year": 2006,
+    "douban": 8.2,
+    "imdb": 7.2,
+    "diff": 0.9999999999999991
+  },
+  {
+    "genre": "Animation",
+    "title": "Despicable Me",
+    "year": 2010,
+    "douban": 8.7,
+    "imdb": 7.7,
+    "diff": 0.9999999999999991
+  },
+  {
+    "genre": "Animation",
+    "title": "Frozen",
+    "year": 2013,
+    "douban": 8.5,
+    "imdb": 7.6,
+    "diff": 0.9000000000000004
+  },
+  {
+    "genre": "Animation",
+    "title": "Big Hero 6",
+    "year": 2014,
+    "douban": 8.8,
+    "imdb": 7.9,
+    "diff": 0.9000000000000004
+  },
+  {
+    "genre": "Animation",
+    "title": "Corpse Bride",
+    "year": 2005,
+    "douban": 8.3,
+    "imdb": 7.4,
+    "diff": 0.9000000000000004
+  },
+  {
+    "genre": "Animation",
+    "title": "WALL·E",
+    "year": 2008,
+    "douban": 9.3,
+    "imdb": 8.4,
+    "diff": 0.9000000000000004
+  },
+  {
+    "genre": "Animation",
+    "title": "Wreck-It Ralph",
+    "year": 2012,
+    "douban": 8.7,
+    "imdb": 7.8,
+    "diff": 0.8999999999999995
+  },
+  {
+    "genre": "Animation",
+    "title": "Puss in Boots",
+    "year": 2011,
+    "douban": 7.6,
+    "imdb": 6.7,
+    "diff": 0.8999999999999995
+  },
+  {
+    "genre": "Animation",
+    "title": "Rise of the Guardians",
+    "year": 2012,
+    "douban": 8.2,
+    "imdb": 7.3,
+    "diff": 0.8999999999999995
+  },
+  {
+    "genre": "Animation",
+    "title": "Monster House",
+    "year": 2006,
+    "douban": 7.4,
+    "imdb": 6.6,
+    "diff": 0.8000000000000007
+  },
+  {
+    "genre": "Animation",
+    "title": "Pixels",
+    "year": 2015,
+    "douban": 6.4,
+    "imdb": 5.6,
+    "diff": 0.8000000000000007
+  },
+  {
+    "genre": "Animation",
+    "title": "Fantastic Mr. Fox",
+    "year": 2009,
+    "douban": 8.6,
+    "imdb": 7.8,
+    "diff": 0.7999999999999998
+  },
+  {
+    "genre": "Biography",
+    "title": "The Last Emperor",
+    "year": 1987,
+    "douban": 9.3,
+    "imdb": 7.8,
+    "diff": 1.5000000000000009
+  },
+  {
+    "genre": "Biography",
+    "title": "Frida",
+    "year": 2002,
+    "douban": 8.7,
+    "imdb": 7.4,
+    "diff": 1.299999999999999
+  },
+  {
+    "genre": "Biography",
+    "title": "Radio",
+    "year": 2003,
+    "douban": 8.2,
+    "imdb": 6.9,
+    "diff": 1.299999999999999
+  },
+  {
+    "genre": "Biography",
+    "title": "Becoming Jane",
+    "year": 2007,
+    "douban": 8.3,
+    "imdb": 7.1,
+    "diff": 1.200000000000001
+  },
+  {
+    "genre": "Biography",
+    "title": "Erin Brockovich",
+    "year": 2000,
+    "douban": 8.5,
+    "imdb": 7.3,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Biography",
+    "title": "Freedom Writers",
+    "year": 2007,
+    "douban": 8.6,
+    "imdb": 7.5,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Biography",
+    "title": "Grace of Monaco",
+    "year": 2014,
+    "douban": 6.8,
+    "imdb": 5.7,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Biography",
+    "title": "The Sound of Music",
+    "year": 1965,
+    "douban": 9.1,
+    "imdb": 8.0,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Biography",
+    "title": "The Pursuit of Happyness",
+    "year": 2006,
+    "douban": 9.1,
+    "imdb": 8.0,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Biography",
+    "title": "Julie & Julia",
+    "year": 2009,
+    "douban": 8.1,
+    "imdb": 7.0,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Biography",
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "douban": 9.1,
+    "imdb": 8.0,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Biography",
+    "title": "The World's Fastest Indian",
+    "year": 2005,
+    "douban": 8.9,
+    "imdb": 7.9,
+    "diff": 1.0
+  },
+  {
+    "genre": "Biography",
+    "title": "McFarland, USA",
+    "year": 2015,
+    "douban": 8.4,
+    "imdb": 7.4,
+    "diff": 1.0
+  },
+  {
+    "genre": "Biography",
+    "title": "Men of Honor",
+    "year": 2000,
+    "douban": 8.2,
+    "imdb": 7.2,
+    "diff": 0.9999999999999991
+  },
+  {
+    "genre": "Biography",
+    "title": "The Blind Side",
+    "year": 2009,
+    "douban": 8.7,
+    "imdb": 7.7,
+    "diff": 0.9999999999999991
+  },
+  {
+    "genre": "Biography",
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "douban": 9.1,
+    "imdb": 8.2,
+    "diff": 0.9000000000000004
+  },
+  {
+    "genre": "Biography",
+    "title": "Chasing Mavericks",
+    "year": 2012,
+    "douban": 8.1,
+    "imdb": 7.2,
+    "diff": 0.8999999999999995
+  },
+  {
+    "genre": "Biography",
+    "title": "The Pianist",
+    "year": 2002,
+    "douban": 9.3,
+    "imdb": 8.5,
+    "diff": 0.8000000000000007
+  },
+  {
+    "genre": "Biography",
+    "title": "Dallas Buyers Club",
+    "year": 2013,
+    "douban": 8.8,
+    "imdb": 8.0,
+    "diff": 0.8000000000000007
+  },
+  {
+    "genre": "Biography",
+    "title": "Margin Call",
+    "year": 2011,
+    "douban": 7.9,
+    "imdb": 7.1,
+    "diff": 0.8000000000000007
+  },
+  {
+    "genre": "Biography",
+    "title": "Bright Star",
+    "year": 2009,
+    "douban": 7.8,
+    "imdb": 7.0,
+    "diff": 0.7999999999999998
+  },
+  {
+    "genre": "Biography",
+    "title": "Girl with a Pearl Earring",
+    "year": 2003,
+    "douban": 7.8,
+    "imdb": 7.0,
+    "diff": 0.7999999999999998
+  },
+  {
+    "genre": "Biography",
+    "title": "Invictus",
+    "year": 2009,
+    "douban": 8.2,
+    "imdb": 7.4,
+    "diff": 0.7999999999999989
+  },
+  {
+    "genre": "Biography",
+    "title": "Moneyball",
+    "year": 2011,
+    "douban": 8.3,
+    "imdb": 7.6,
+    "diff": 0.7000000000000011
+  },
+  {
+    "genre": "Biography",
+    "title": "The Imitation Game",
+    "year": 2014,
+    "douban": 8.8,
+    "imdb": 8.1,
+    "diff": 0.7000000000000011
+  },
+  {
+    "genre": "Biography",
+    "title": "Spotlight",
+    "year": 2015,
+    "douban": 8.8,
+    "imdb": 8.1,
+    "diff": 0.7000000000000011
+  },
+  {
+    "genre": "Biography",
+    "title": "The Big Short",
+    "year": 2015,
+    "douban": 8.5,
+    "imdb": 7.8,
+    "diff": 0.7000000000000002
+  },
+  {
+    "genre": "Biography",
+    "title": "Ray",
+    "year": 2004,
+    "douban": 8.4,
+    "imdb": 7.7,
+    "diff": 0.7000000000000002
+  },
+  {
+    "genre": "Biography",
+    "title": "Persepolis",
+    "year": 2007,
+    "douban": 8.7,
+    "imdb": 8.0,
+    "diff": 0.6999999999999993
+  },
+  {
+    "genre": "Biography",
+    "title": "J. Edgar",
+    "year": 2011,
+    "douban": 7.2,
+    "imdb": 6.6,
+    "diff": 0.6000000000000005
+  },
+  {
+    "genre": "Comedy",
+    "title": "Meet the Spartans",
+    "year": 2008,
+    "douban": 6.0,
+    "imdb": 2.7,
+    "diff": 3.3
+  },
+  {
+    "genre": "Comedy",
+    "title": "The Kid",
+    "year": 2000,
+    "douban": 9.2,
+    "imdb": 6.1,
+    "diff": 3.0999999999999996
+  },
+  {
+    "genre": "Comedy",
+    "title": "High School Musical 3: Senior Year",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 4.5,
+    "diff": 3.0
+  },
+  {
+    "genre": "Comedy",
+    "title": "Garfield",
+    "year": 2004,
+    "douban": 7.8,
+    "imdb": 5.0,
+    "diff": 2.8
+  },
+  {
+    "genre": "Comedy",
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "year": 2009,
+    "douban": 7.2,
+    "imdb": 4.5,
+    "diff": 2.7
+  },
+  {
+    "genre": "Comedy",
+    "title": "High School Musical",
+    "year": 2006,
+    "douban": 7.8,
+    "imdb": 5.2,
+    "diff": 2.5999999999999996
+  },
+  {
+    "genre": "Comedy",
+    "title": "Swept Away",
+    "year": 2002,
+    "douban": 6.1,
+    "imdb": 3.6,
+    "diff": 2.4999999999999996
+  },
+  {
+    "genre": "Comedy",
+    "title": "Home",
+    "year": 2015,
+    "douban": 9.2,
+    "imdb": 6.7,
+    "diff": 2.499999999999999
+  },
+  {
+    "genre": "Comedy",
+    "title": "Babe: Pig in the City",
+    "year": 1998,
+    "douban": 7.9,
+    "imdb": 5.8,
+    "diff": 2.1000000000000005
+  },
+  {
+    "genre": "Comedy",
+    "title": "Mr. Bean's Holiday",
+    "year": 2007,
+    "douban": 8.3,
+    "imdb": 6.3,
+    "diff": 2.000000000000001
+  },
+  {
+    "genre": "Comedy",
+    "title": "Meet Dave",
+    "year": 2008,
+    "douban": 6.9,
+    "imdb": 4.9,
+    "diff": 2.0
+  },
+  {
+    "genre": "Comedy",
+    "title": "New York Minute",
+    "year": 2004,
+    "douban": 6.8,
+    "imdb": 4.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "Comedy",
+    "title": "Last Holiday",
+    "year": 2006,
+    "douban": 8.4,
+    "imdb": 6.4,
+    "diff": 2.0
+  },
+  {
+    "genre": "Comedy",
+    "title": "White Chicks",
+    "year": 2004,
+    "douban": 7.3,
+    "imdb": 5.4,
+    "diff": 1.8999999999999995
+  },
+  {
+    "genre": "Comedy",
+    "title": "The Pink Panther",
+    "year": 2006,
+    "douban": 7.4,
+    "imdb": 5.6,
+    "diff": 1.8000000000000007
+  },
+  {
+    "genre": "Comedy",
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "year": 2015,
+    "douban": 7.7,
+    "imdb": 6.0,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Comedy",
+    "title": "Chicago",
+    "year": 2002,
+    "douban": 8.9,
+    "imdb": 7.2,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Comedy",
+    "title": "Johnny English",
+    "year": 2003,
+    "douban": 7.8,
+    "imdb": 6.1,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Comedy",
+    "title": "Legally Blonde",
+    "year": 2001,
+    "douban": 7.9,
+    "imdb": 6.2,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Comedy",
+    "title": "Charlotte's Web",
+    "year": 2006,
+    "douban": 8.1,
+    "imdb": 6.4,
+    "diff": 1.6999999999999993
+  },
+  {
+    "genre": "Comedy",
+    "title": "D.E.B.S.",
+    "year": 2004,
+    "douban": 6.9,
+    "imdb": 5.3,
+    "diff": 1.6000000000000005
+  },
+  {
+    "genre": "Comedy",
+    "title": "Charlie and the Chocolate Factory",
+    "year": 2005,
+    "douban": 8.3,
+    "imdb": 6.7,
+    "diff": 1.6000000000000005
+  },
+  {
+    "genre": "Comedy",
+    "title": "The Terminal",
+    "year": 2004,
+    "douban": 8.8,
+    "imdb": 7.3,
+    "diff": 1.5000000000000009
+  },
+  {
+    "genre": "Comedy",
+    "title": "Last Action Hero",
+    "year": 1993,
+    "douban": 7.7,
+    "imdb": 6.2,
+    "diff": 1.5
+  },
+  {
+    "genre": "Comedy",
+    "title": "Charlie's Angels",
+    "year": 2000,
+    "douban": 7.0,
+    "imdb": 5.5,
+    "diff": 1.5
+  },
+  {
+    "genre": "Comedy",
+    "title": "Just My Luck",
+    "year": 2006,
+    "douban": 6.8,
+    "imdb": 5.3,
+    "diff": 1.5
+  },
+  {
+    "genre": "Comedy",
+    "title": "The SpongeBob SquarePants Movie",
+    "year": 2004,
+    "douban": 8.5,
+    "imdb": 7.0,
+    "diff": 1.5
+  },
+  {
+    "genre": "Comedy",
+    "title": "The Family Man",
+    "year": 2000,
+    "douban": 8.2,
+    "imdb": 6.7,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Comedy",
+    "title": "Bridget Jones: The Edge of Reason",
+    "year": 2004,
+    "douban": 7.3,
+    "imdb": 5.9,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Comedy",
+    "title": "The Croods",
+    "year": 2013,
+    "douban": 8.7,
+    "imdb": 7.3,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Crime",
+    "title": "Catwoman",
+    "year": 2004,
+    "douban": 5.9,
+    "imdb": 3.3,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "Crime",
+    "title": "New York Minute",
+    "year": 2004,
+    "douban": 6.8,
+    "imdb": 4.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "Crime",
+    "title": "White Chicks",
+    "year": 2004,
+    "douban": 7.3,
+    "imdb": 5.4,
+    "diff": 1.8999999999999995
+  },
+  {
+    "genre": "Crime",
+    "title": "The Pink Panther",
+    "year": 2006,
+    "douban": 7.4,
+    "imdb": 5.6,
+    "diff": 1.8000000000000007
+  },
+  {
+    "genre": "Crime",
+    "title": "Life",
+    "year": 2017,
+    "douban": 6.5,
+    "imdb": 8.3,
+    "diff": -1.8000000000000007
+  },
+  {
+    "genre": "Crime",
+    "title": "Miami Vice",
+    "year": 2006,
+    "douban": 5.8,
+    "imdb": 7.5,
+    "diff": -1.7000000000000002
+  },
+  {
+    "genre": "Crime",
+    "title": "Chicago",
+    "year": 2002,
+    "douban": 8.9,
+    "imdb": 7.2,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Crime",
+    "title": "Charlie's Angels",
+    "year": 2000,
+    "douban": 7.0,
+    "imdb": 5.5,
+    "diff": 1.5
+  },
+  {
+    "genre": "Crime",
+    "title": "Miracle at St. Anna",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 6.0,
+    "diff": 1.5
+  },
+  {
+    "genre": "Crime",
+    "title": "John Q",
+    "year": 2002,
+    "douban": 8.3,
+    "imdb": 7.0,
+    "diff": 1.3000000000000007
+  },
+  {
+    "genre": "Crime",
+    "title": "Hannibal Rising",
+    "year": 2007,
+    "douban": 7.5,
+    "imdb": 6.2,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Crime",
+    "title": "Let's Go to Prison",
+    "year": 2006,
+    "douban": 7.3,
+    "imdb": 6.0,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Crime",
+    "title": "Mr. & Mrs. Smith",
+    "year": 2005,
+    "douban": 7.8,
+    "imdb": 6.5,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Crime",
+    "title": "The Fast and the Furious",
+    "year": 2001,
+    "douban": 7.9,
+    "imdb": 6.7,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Crime",
+    "title": "The Naked Gun 2½: The Smell of Fear",
+    "year": 1991,
+    "douban": 8.0,
+    "imdb": 6.8,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Crime",
+    "title": "Brother",
+    "year": 2000,
+    "douban": 8.4,
+    "imdb": 7.2,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Crime",
+    "title": "The Departed",
+    "year": 2006,
+    "douban": 7.3,
+    "imdb": 8.5,
+    "diff": -1.2000000000000002
+  },
+  {
+    "genre": "Crime",
+    "title": "Mindhunters",
+    "year": 2004,
+    "douban": 7.6,
+    "imdb": 6.4,
+    "diff": 1.1999999999999993
+  },
+  {
+    "genre": "Crime",
+    "title": "Frequency",
+    "year": 2000,
+    "douban": 8.4,
+    "imdb": 7.3,
+    "diff": 1.1000000000000005
+  },
+  {
+    "genre": "Crime",
+    "title": "Fun with Dick and Jane",
+    "year": 2005,
+    "douban": 7.2,
+    "imdb": 6.1,
+    "diff": 1.1000000000000005
+  },
+  {
+    "genre": "Crime",
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "douban": 9.1,
+    "imdb": 8.0,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Crime",
+    "title": "Freedom Writers",
+    "year": 2007,
+    "douban": 8.6,
+    "imdb": 7.5,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Crime",
+    "title": "Escape Plan",
+    "year": 2013,
+    "douban": 7.8,
+    "imdb": 6.7,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Crime",
+    "title": "Lord of War",
+    "year": 2005,
+    "douban": 8.7,
+    "imdb": 7.6,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Crime",
+    "title": "The Life of David Gale",
+    "year": 2003,
+    "douban": 8.6,
+    "imdb": 7.5,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Crime",
+    "title": "Action Jackson",
+    "year": 1988,
+    "douban": 6.3,
+    "imdb": 5.2,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Crime",
+    "title": "Oliver Twist",
+    "year": 2005,
+    "douban": 8.0,
+    "imdb": 6.9,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Crime",
+    "title": "The Fast and the Furious: Tokyo Drift",
+    "year": 2006,
+    "douban": 7.1,
+    "imdb": 6.0,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Crime",
+    "title": "Paul Blart: Mall Cop",
+    "year": 2009,
+    "douban": 6.2,
+    "imdb": 5.2,
+    "diff": 1.0
+  },
+  {
+    "genre": "Crime",
+    "title": "Perfume: The Story of a Murderer",
+    "year": 2006,
+    "douban": 8.5,
+    "imdb": 7.5,
+    "diff": 1.0
+  },
+  {
+    "genre": "Documentary",
+    "title": "An Inconvenient Truth",
+    "year": 2006,
+    "douban": 8.6,
+    "imdb": 7.5,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Documentary",
+    "title": "Samsara",
+    "year": 2011,
+    "douban": 7.5,
+    "imdb": 8.5,
+    "diff": -1.0
+  },
+  {
+    "genre": "Documentary",
+    "title": "Capitalism: A Love Story",
+    "year": 2009,
+    "douban": 8.2,
+    "imdb": 7.4,
+    "diff": 0.7999999999999989
+  },
+  {
+    "genre": "Documentary",
+    "title": "Food, Inc.",
+    "year": 2008,
+    "douban": 8.5,
+    "imdb": 7.9,
+    "diff": 0.5999999999999996
+  },
+  {
+    "genre": "Documentary",
+    "title": "The Square",
+    "year": 2013,
+    "douban": 7.7,
+    "imdb": 8.1,
+    "diff": -0.39999999999999947
+  },
+  {
+    "genre": "Drama",
+    "title": "The Promise",
+    "year": 2005,
+    "douban": 8.9,
+    "imdb": 5.6,
+    "diff": 3.3000000000000007
+  },
+  {
+    "genre": "Drama",
+    "title": "Q",
+    "year": 2011,
+    "douban": 8.8,
+    "imdb": 5.6,
+    "diff": 3.200000000000001
+  },
+  {
+    "genre": "Drama",
+    "title": "High School Musical 3: Senior Year",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 4.5,
+    "diff": 3.0
+  },
+  {
+    "genre": "Drama",
+    "title": "High School Musical",
+    "year": 2006,
+    "douban": 7.8,
+    "imdb": 5.2,
+    "diff": 2.5999999999999996
+  },
+  {
+    "genre": "Drama",
+    "title": "Twilight",
+    "year": 2008,
+    "douban": 7.6,
+    "imdb": 5.2,
+    "diff": 2.3999999999999995
+  },
+  {
+    "genre": "Drama",
+    "title": "The Twilight Saga: New Moon",
+    "year": 2009,
+    "douban": 6.9,
+    "imdb": 4.6,
+    "diff": 2.3000000000000007
+  },
+  {
+    "genre": "Drama",
+    "title": "Babe: Pig in the City",
+    "year": 1998,
+    "douban": 7.9,
+    "imdb": 5.8,
+    "diff": 2.1000000000000005
+  },
+  {
+    "genre": "Drama",
+    "title": "Bella",
+    "year": 2006,
+    "douban": 9.5,
+    "imdb": 7.4,
+    "diff": 2.0999999999999996
+  },
+  {
+    "genre": "Drama",
+    "title": "Last Holiday",
+    "year": 2006,
+    "douban": 8.4,
+    "imdb": 6.4,
+    "diff": 2.0
+  },
+  {
+    "genre": "Drama",
+    "title": "Pearl Harbor",
+    "year": 2001,
+    "douban": 8.1,
+    "imdb": 6.1,
+    "diff": 2.0
+  },
+  {
+    "genre": "Drama",
+    "title": "Oldboy",
+    "year": 2003,
+    "douban": 6.5,
+    "imdb": 8.4,
+    "diff": -1.9000000000000004
+  },
+  {
+    "genre": "Drama",
+    "title": "Life",
+    "year": 2017,
+    "douban": 6.5,
+    "imdb": 8.3,
+    "diff": -1.8000000000000007
+  },
+  {
+    "genre": "Drama",
+    "title": "The Twilight Saga: Breaking Dawn - Part 2",
+    "year": 2012,
+    "douban": 7.3,
+    "imdb": 5.5,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "Drama",
+    "title": "Titanic",
+    "year": 1997,
+    "douban": 9.5,
+    "imdb": 7.7,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "Drama",
+    "title": "Windtalkers",
+    "year": 2002,
+    "douban": 7.7,
+    "imdb": 6.0,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Drama",
+    "title": "Miami Vice",
+    "year": 2006,
+    "douban": 5.8,
+    "imdb": 7.5,
+    "diff": -1.7000000000000002
+  },
+  {
+    "genre": "Drama",
+    "title": "Vertical Limit",
+    "year": 2000,
+    "douban": 7.6,
+    "imdb": 5.9,
+    "diff": 1.6999999999999993
+  },
+  {
+    "genre": "Drama",
+    "title": "Earth",
+    "year": 1998,
+    "douban": 9.4,
+    "imdb": 7.8,
+    "diff": 1.6000000000000005
+  },
+  {
+    "genre": "Drama",
+    "title": "A.I. Artificial Intelligence",
+    "year": 2001,
+    "douban": 8.7,
+    "imdb": 7.1,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Drama",
+    "title": "Mona Lisa Smile",
+    "year": 2003,
+    "douban": 8.0,
+    "imdb": 6.4,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Drama",
+    "title": "Hide and Seek",
+    "year": 2005,
+    "douban": 7.5,
+    "imdb": 5.9,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Drama",
+    "title": "Captain Corelli's Mandolin",
+    "year": 2001,
+    "douban": 7.5,
+    "imdb": 5.9,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Drama",
+    "title": "The Terminal",
+    "year": 2004,
+    "douban": 8.8,
+    "imdb": 7.3,
+    "diff": 1.5000000000000009
+  },
+  {
+    "genre": "Drama",
+    "title": "The Last Emperor",
+    "year": 1987,
+    "douban": 9.3,
+    "imdb": 7.8,
+    "diff": 1.5000000000000009
+  },
+  {
+    "genre": "Drama",
+    "title": "Miracle at St. Anna",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 6.0,
+    "diff": 1.5
+  },
+  {
+    "genre": "Drama",
+    "title": "Kingdom of Heaven",
+    "year": 2005,
+    "douban": 8.7,
+    "imdb": 7.2,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Drama",
+    "title": "A Shine of Rainbows",
+    "year": 2009,
+    "douban": 8.7,
+    "imdb": 7.2,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Drama",
+    "title": "Center Stage",
+    "year": 2000,
+    "douban": 8.2,
+    "imdb": 6.7,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Drama",
+    "title": "Rocky Balboa",
+    "year": 2006,
+    "douban": 8.7,
+    "imdb": 7.2,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Drama",
+    "title": "The Family Man",
+    "year": 2000,
+    "douban": 8.2,
+    "imdb": 6.7,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Family",
+    "title": "The Kid",
+    "year": 2000,
+    "douban": 9.2,
+    "imdb": 6.1,
+    "diff": 3.0999999999999996
+  },
+  {
+    "genre": "Family",
+    "title": "High School Musical 3: Senior Year",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 4.5,
+    "diff": 3.0
+  },
+  {
+    "genre": "Family",
+    "title": "Garfield",
+    "year": 2004,
+    "douban": 7.8,
+    "imdb": 5.0,
+    "diff": 2.8
+  },
+  {
+    "genre": "Family",
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "year": 2009,
+    "douban": 7.2,
+    "imdb": 4.5,
+    "diff": 2.7
+  },
+  {
+    "genre": "Family",
+    "title": "High School Musical",
+    "year": 2006,
+    "douban": 7.8,
+    "imdb": 5.2,
+    "diff": 2.5999999999999996
+  },
+  {
+    "genre": "Family",
+    "title": "Home",
+    "year": 2015,
+    "douban": 9.2,
+    "imdb": 6.7,
+    "diff": 2.499999999999999
+  },
+  {
+    "genre": "Family",
+    "title": "Babe: Pig in the City",
+    "year": 1998,
+    "douban": 7.9,
+    "imdb": 5.8,
+    "diff": 2.1000000000000005
+  },
+  {
+    "genre": "Family",
+    "title": "Mr. Bean's Holiday",
+    "year": 2007,
+    "douban": 8.3,
+    "imdb": 6.3,
+    "diff": 2.000000000000001
+  },
+  {
+    "genre": "Family",
+    "title": "Return to Never Land",
+    "year": 2002,
+    "douban": 7.8,
+    "imdb": 5.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "Family",
+    "title": "Meet Dave",
+    "year": 2008,
+    "douban": 6.9,
+    "imdb": 4.9,
+    "diff": 2.0
+  },
+  {
+    "genre": "Family",
+    "title": "New York Minute",
+    "year": 2004,
+    "douban": 6.8,
+    "imdb": 4.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "Family",
+    "title": "The Pink Panther",
+    "year": 2006,
+    "douban": 7.4,
+    "imdb": 5.6,
+    "diff": 1.8000000000000007
+  },
+  {
+    "genre": "Family",
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "year": 2015,
+    "douban": 7.7,
+    "imdb": 6.0,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Family",
+    "title": "Charlotte's Web",
+    "year": 2006,
+    "douban": 8.1,
+    "imdb": 6.4,
+    "diff": 1.6999999999999993
+  },
+  {
+    "genre": "Family",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "douban": 9.2,
+    "imdb": 7.5,
+    "diff": 1.6999999999999993
+  },
+  {
+    "genre": "Family",
+    "title": "Charlie and the Chocolate Factory",
+    "year": 2005,
+    "douban": 8.3,
+    "imdb": 6.7,
+    "diff": 1.6000000000000005
+  },
+  {
+    "genre": "Family",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "year": 2002,
+    "douban": 8.9,
+    "imdb": 7.4,
+    "diff": 1.5
+  },
+  {
+    "genre": "Family",
+    "title": "The SpongeBob SquarePants Movie",
+    "year": 2004,
+    "douban": 8.5,
+    "imdb": 7.0,
+    "diff": 1.5
+  },
+  {
+    "genre": "Family",
+    "title": "A Shine of Rainbows",
+    "year": 2009,
+    "douban": 8.7,
+    "imdb": 7.2,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Family",
+    "title": "The Young and Prodigious T.S. Spivet",
+    "year": 2013,
+    "douban": 8.5,
+    "imdb": 7.1,
+    "diff": 1.4000000000000004
+  },
+  {
+    "genre": "Family",
+    "title": "The Princess Diaries",
+    "year": 2001,
+    "douban": 7.6,
+    "imdb": 6.2,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Family",
+    "title": "Eight Below",
+    "year": 2006,
+    "douban": 8.7,
+    "imdb": 7.3,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Family",
+    "title": "The Croods",
+    "year": 2013,
+    "douban": 8.7,
+    "imdb": 7.3,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Family",
+    "title": "Lilo & Stitch",
+    "year": 2002,
+    "douban": 8.6,
+    "imdb": 7.2,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Family",
+    "title": "Minions",
+    "year": 2015,
+    "douban": 7.8,
+    "imdb": 6.4,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Family",
+    "title": "Hachi: A Dog's Tale",
+    "year": 2009,
+    "douban": 9.4,
+    "imdb": 8.1,
+    "diff": 1.3000000000000007
+  },
+  {
+    "genre": "Family",
+    "title": "Rio",
+    "year": 2011,
+    "douban": 8.3,
+    "imdb": 7.0,
+    "diff": 1.3000000000000007
+  },
+  {
+    "genre": "Family",
+    "title": "Mamma Mia!",
+    "year": 2008,
+    "douban": 7.6,
+    "imdb": 6.3,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Family",
+    "title": "Night at the Museum",
+    "year": 2006,
+    "douban": 7.7,
+    "imdb": 6.4,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Family",
+    "title": "Dreamer: Inspired by a True Story",
+    "year": 2005,
+    "douban": 8.2,
+    "imdb": 6.9,
+    "diff": 1.299999999999999
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The Promise",
+    "year": 2005,
+    "douban": 8.9,
+    "imdb": 5.6,
+    "diff": 3.3000000000000007
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The Kid",
+    "year": 2000,
+    "douban": 9.2,
+    "imdb": 6.1,
+    "diff": 3.0999999999999996
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Garfield",
+    "year": 2004,
+    "douban": 7.8,
+    "imdb": 5.0,
+    "diff": 2.8
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "year": 2009,
+    "douban": 7.2,
+    "imdb": 4.5,
+    "diff": 2.7
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Catwoman",
+    "year": 2004,
+    "douban": 5.9,
+    "imdb": 3.3,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Home",
+    "year": 2015,
+    "douban": 9.2,
+    "imdb": 6.7,
+    "diff": 2.499999999999999
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Twilight",
+    "year": 2008,
+    "douban": 7.6,
+    "imdb": 5.2,
+    "diff": 2.3999999999999995
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The Twilight Saga: New Moon",
+    "year": 2009,
+    "douban": 6.9,
+    "imdb": 4.6,
+    "diff": 2.3000000000000007
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Babe: Pig in the City",
+    "year": 1998,
+    "douban": 7.9,
+    "imdb": 5.8,
+    "diff": 2.1000000000000005
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Return to Never Land",
+    "year": 2002,
+    "douban": 7.8,
+    "imdb": 5.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The Twilight Saga: Breaking Dawn - Part 2",
+    "year": 2012,
+    "douban": 7.3,
+    "imdb": 5.5,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "year": 2015,
+    "douban": 7.7,
+    "imdb": 6.0,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Ghost Rider: Spirit of Vengeance",
+    "year": 2011,
+    "douban": 6.0,
+    "imdb": 4.3,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Charlotte's Web",
+    "year": 2006,
+    "douban": 8.1,
+    "imdb": 6.4,
+    "diff": 1.6999999999999993
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "douban": 9.2,
+    "imdb": 7.5,
+    "diff": 1.6999999999999993
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Charlie and the Chocolate Factory",
+    "year": 2005,
+    "douban": 8.3,
+    "imdb": 6.7,
+    "diff": 1.6000000000000005
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Triangle",
+    "year": 2009,
+    "douban": 8.5,
+    "imdb": 6.9,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Ghost Rider",
+    "year": 2007,
+    "douban": 6.8,
+    "imdb": 5.2,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The Omen",
+    "year": 1976,
+    "douban": 6.1,
+    "imdb": 7.6,
+    "diff": -1.5
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Just My Luck",
+    "year": 2006,
+    "douban": 6.8,
+    "imdb": 5.3,
+    "diff": 1.5
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Last Action Hero",
+    "year": 1993,
+    "douban": 7.7,
+    "imdb": 6.2,
+    "diff": 1.5
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The SpongeBob SquarePants Movie",
+    "year": 2004,
+    "douban": 8.5,
+    "imdb": 7.0,
+    "diff": 1.5
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "year": 2002,
+    "douban": 8.9,
+    "imdb": 7.4,
+    "diff": 1.5
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The Family Man",
+    "year": 2000,
+    "douban": 8.2,
+    "imdb": 6.7,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Click",
+    "year": 2006,
+    "douban": 7.8,
+    "imdb": 6.4,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Lara Croft: Tomb Raider",
+    "year": 2001,
+    "douban": 7.1,
+    "imdb": 5.7,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Fantasy",
+    "title": "The Croods",
+    "year": 2013,
+    "douban": 8.7,
+    "imdb": 7.3,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "year": 2002,
+    "douban": 8.1,
+    "imdb": 6.7,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Lilo & Stitch",
+    "year": 2002,
+    "douban": 8.6,
+    "imdb": 7.2,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Fantasy",
+    "title": "Pirates of the Caribbean: At World's End",
+    "year": 2007,
+    "douban": 8.4,
+    "imdb": 7.1,
+    "diff": 1.3000000000000007
+  },
+  {
+    "genre": "History",
+    "title": "Pearl Harbor",
+    "year": 2001,
+    "douban": 8.1,
+    "imdb": 6.1,
+    "diff": 2.0
+  },
+  {
+    "genre": "History",
+    "title": "The Last Emperor",
+    "year": 1987,
+    "douban": 9.3,
+    "imdb": 7.8,
+    "diff": 1.5000000000000009
+  },
+  {
+    "genre": "History",
+    "title": "Kingdom of Heaven",
+    "year": 2005,
+    "douban": 8.7,
+    "imdb": 7.2,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "History",
+    "title": "Gone with the Wind",
+    "year": 1939,
+    "douban": 9.3,
+    "imdb": 8.2,
+    "diff": 1.1000000000000014
+  },
+  {
+    "genre": "History",
+    "title": "Hero",
+    "year": 2002,
+    "douban": 8.9,
+    "imdb": 7.9,
+    "diff": 1.0
+  },
+  {
+    "genre": "History",
+    "title": "Black Hawk Down",
+    "year": 2001,
+    "douban": 8.7,
+    "imdb": 7.7,
+    "diff": 0.9999999999999991
+  },
+  {
+    "genre": "History",
+    "title": "Cold Mountain",
+    "year": 2003,
+    "douban": 8.2,
+    "imdb": 7.2,
+    "diff": 0.9999999999999991
+  },
+  {
+    "genre": "History",
+    "title": "Enemy at the Gates",
+    "year": 2001,
+    "douban": 8.4,
+    "imdb": 7.6,
+    "diff": 0.8000000000000007
+  },
+  {
+    "genre": "History",
+    "title": "Hotel Rwanda",
+    "year": 2004,
+    "douban": 8.9,
+    "imdb": 8.1,
+    "diff": 0.8000000000000007
+  },
+  {
+    "genre": "History",
+    "title": "Invictus",
+    "year": 2009,
+    "douban": 8.2,
+    "imdb": 7.4,
+    "diff": 0.7999999999999989
+  },
+  {
+    "genre": "History",
+    "title": "Spotlight",
+    "year": 2015,
+    "douban": 8.8,
+    "imdb": 8.1,
+    "diff": 0.7000000000000011
+  },
+  {
+    "genre": "History",
+    "title": "The Big Short",
+    "year": 2015,
+    "douban": 8.5,
+    "imdb": 7.8,
+    "diff": 0.7000000000000002
+  },
+  {
+    "genre": "History",
+    "title": "Thirteen Days",
+    "year": 2000,
+    "douban": 7.9,
+    "imdb": 7.3,
+    "diff": 0.6000000000000005
+  },
+  {
+    "genre": "History",
+    "title": "Mr. Turner",
+    "year": 2014,
+    "douban": 7.4,
+    "imdb": 6.8,
+    "diff": 0.6000000000000005
+  },
+  {
+    "genre": "History",
+    "title": "Schindler's List",
+    "year": 1993,
+    "douban": 9.5,
+    "imdb": 8.9,
+    "diff": 0.5999999999999996
+  },
+  {
+    "genre": "History",
+    "title": "The 33",
+    "year": 2015,
+    "douban": 7.5,
+    "imdb": 6.9,
+    "diff": 0.5999999999999996
+  },
+  {
+    "genre": "History",
+    "title": "Bridge of Spies",
+    "year": 2015,
+    "douban": 8.2,
+    "imdb": 7.6,
+    "diff": 0.5999999999999996
+  },
+  {
+    "genre": "History",
+    "title": "World Trade Center",
+    "year": 2006,
+    "douban": 6.6,
+    "imdb": 6.0,
+    "diff": 0.5999999999999996
+  },
+  {
+    "genre": "History",
+    "title": "In the Heart of the Sea",
+    "year": 2015,
+    "douban": 7.5,
+    "imdb": 7.0,
+    "diff": 0.5
+  },
+  {
+    "genre": "History",
+    "title": "The King's Speech",
+    "year": 2010,
+    "douban": 8.5,
+    "imdb": 8.0,
+    "diff": 0.5
+  },
+  {
+    "genre": "History",
+    "title": "Braveheart",
+    "year": 1995,
+    "douban": 8.9,
+    "imdb": 8.4,
+    "diff": 0.5
+  },
+  {
+    "genre": "History",
+    "title": "Elizabeth: The Golden Age",
+    "year": 2007,
+    "douban": 7.4,
+    "imdb": 6.9,
+    "diff": 0.5
+  },
+  {
+    "genre": "History",
+    "title": "Everest",
+    "year": 2015,
+    "douban": 7.5,
+    "imdb": 7.1,
+    "diff": 0.40000000000000036
+  },
+  {
+    "genre": "History",
+    "title": "American Sniper",
+    "year": 2014,
+    "douban": 7.7,
+    "imdb": 7.3,
+    "diff": 0.40000000000000036
+  },
+  {
+    "genre": "History",
+    "title": "Public Enemies",
+    "year": 2009,
+    "douban": 7.4,
+    "imdb": 7.0,
+    "diff": 0.40000000000000036
+  },
+  {
+    "genre": "History",
+    "title": "Lincoln",
+    "year": 2012,
+    "douban": 7.8,
+    "imdb": 7.4,
+    "diff": 0.39999999999999947
+  },
+  {
+    "genre": "History",
+    "title": "The Other Boleyn Girl",
+    "year": 2008,
+    "douban": 7.1,
+    "imdb": 6.7,
+    "diff": 0.39999999999999947
+  },
+  {
+    "genre": "History",
+    "title": "Charlie Wilson's War",
+    "year": 2007,
+    "douban": 6.7,
+    "imdb": 7.1,
+    "diff": -0.39999999999999947
+  },
+  {
+    "genre": "History",
+    "title": "The Square",
+    "year": 2013,
+    "douban": 7.7,
+    "imdb": 8.1,
+    "diff": -0.39999999999999947
+  },
+  {
+    "genre": "History",
+    "title": "United 93",
+    "year": 2006,
+    "douban": 7.9,
+    "imdb": 7.6,
+    "diff": 0.3000000000000007
+  },
+  {
+    "genre": "Horror",
+    "title": "Cabin Fever",
+    "year": 2016,
+    "douban": 6.1,
+    "imdb": 3.7,
+    "diff": 2.3999999999999995
+  },
+  {
+    "genre": "Horror",
+    "title": "One Missed Call",
+    "year": 2008,
+    "douban": 5.7,
+    "imdb": 3.9,
+    "diff": 1.8000000000000003
+  },
+  {
+    "genre": "Horror",
+    "title": "Resident Evil: Apocalypse",
+    "year": 2004,
+    "douban": 8.0,
+    "imdb": 6.2,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "Horror",
+    "title": "House of Wax",
+    "year": 2005,
+    "douban": 7.0,
+    "imdb": 5.3,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Horror",
+    "title": "Resident Evil",
+    "year": 2002,
+    "douban": 8.3,
+    "imdb": 6.7,
+    "diff": 1.6000000000000005
+  },
+  {
+    "genre": "Horror",
+    "title": "Hide and Seek",
+    "year": 2005,
+    "douban": 7.5,
+    "imdb": 5.9,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Horror",
+    "title": "The Skeleton Key",
+    "year": 2005,
+    "douban": 8.0,
+    "imdb": 6.5,
+    "diff": 1.5
+  },
+  {
+    "genre": "Horror",
+    "title": "Ghost Ship",
+    "year": 2002,
+    "douban": 7.0,
+    "imdb": 5.5,
+    "diff": 1.5
+  },
+  {
+    "genre": "Horror",
+    "title": "AVP: Alien vs. Predator",
+    "year": 2004,
+    "douban": 7.1,
+    "imdb": 5.6,
+    "diff": 1.5
+  },
+  {
+    "genre": "Horror",
+    "title": "The Omen",
+    "year": 1976,
+    "douban": 6.1,
+    "imdb": 7.6,
+    "diff": -1.5
+  },
+  {
+    "genre": "Horror",
+    "title": "The Grudge 2",
+    "year": 2006,
+    "douban": 6.4,
+    "imdb": 5.0,
+    "diff": 1.4000000000000004
+  },
+  {
+    "genre": "Horror",
+    "title": "Exorcist: The Beginning",
+    "year": 2004,
+    "douban": 6.5,
+    "imdb": 5.1,
+    "diff": 1.4000000000000004
+  },
+  {
+    "genre": "Horror",
+    "title": "Stay Alive",
+    "year": 2006,
+    "douban": 6.4,
+    "imdb": 5.1,
+    "diff": 1.3000000000000007
+  },
+  {
+    "genre": "Horror",
+    "title": "Cry_Wolf",
+    "year": 2005,
+    "douban": 7.2,
+    "imdb": 5.9,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Horror",
+    "title": "The Cell",
+    "year": 2000,
+    "douban": 7.6,
+    "imdb": 6.3,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Horror",
+    "title": "Final Destination",
+    "year": 2000,
+    "douban": 7.9,
+    "imdb": 6.7,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Horror",
+    "title": "An American Haunting",
+    "year": 2005,
+    "douban": 6.2,
+    "imdb": 5.0,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Horror",
+    "title": "Resident Evil: Extinction",
+    "year": 2007,
+    "douban": 7.5,
+    "imdb": 6.3,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Horror",
+    "title": "Wolf Creek",
+    "year": 2005,
+    "douban": 5.9,
+    "imdb": 7.1,
+    "diff": -1.1999999999999993
+  },
+  {
+    "genre": "Horror",
+    "title": "Mindhunters",
+    "year": 2004,
+    "douban": 7.6,
+    "imdb": 6.4,
+    "diff": 1.1999999999999993
+  },
+  {
+    "genre": "Horror",
+    "title": "Ouija",
+    "year": 2014,
+    "douban": 5.6,
+    "imdb": 4.4,
+    "diff": 1.1999999999999993
+  },
+  {
+    "genre": "Horror",
+    "title": "Orphan",
+    "year": 2009,
+    "douban": 8.2,
+    "imdb": 7.0,
+    "diff": 1.1999999999999993
+  },
+  {
+    "genre": "Horror",
+    "title": "Silent Hill",
+    "year": 2006,
+    "douban": 7.7,
+    "imdb": 6.6,
+    "diff": 1.1000000000000005
+  },
+  {
+    "genre": "Horror",
+    "title": "Annabelle",
+    "year": 2014,
+    "douban": 6.5,
+    "imdb": 5.4,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Horror",
+    "title": "The Thing",
+    "year": 1982,
+    "douban": 7.1,
+    "imdb": 8.2,
+    "diff": -1.0999999999999996
+  },
+  {
+    "genre": "Horror",
+    "title": "When a Stranger Calls",
+    "year": 2006,
+    "douban": 6.1,
+    "imdb": 5.0,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Horror",
+    "title": "Hollow Man",
+    "year": 2000,
+    "douban": 6.8,
+    "imdb": 5.7,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Horror",
+    "title": "As Above, So Below",
+    "year": 2014,
+    "douban": 7.1,
+    "imdb": 6.1,
+    "diff": 1.0
+  },
+  {
+    "genre": "Horror",
+    "title": "Anaconda",
+    "year": 1997,
+    "douban": 5.6,
+    "imdb": 4.6,
+    "diff": 1.0
+  },
+  {
+    "genre": "Horror",
+    "title": "Resident Evil: Retribution",
+    "year": 2012,
+    "douban": 6.4,
+    "imdb": 5.4,
+    "diff": 1.0
+  },
+  {
+    "genre": "Music",
+    "title": "High School Musical 3: Senior Year",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 4.5,
+    "diff": 3.0
+  },
+  {
+    "genre": "Music",
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "year": 2009,
+    "douban": 7.2,
+    "imdb": 4.5,
+    "diff": 2.7
+  },
+  {
+    "genre": "Music",
+    "title": "High School Musical",
+    "year": 2006,
+    "douban": 7.8,
+    "imdb": 5.2,
+    "diff": 2.5999999999999996
+  },
+  {
+    "genre": "Music",
+    "title": "Captain Corelli's Mandolin",
+    "year": 2001,
+    "douban": 7.5,
+    "imdb": 5.9,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Music",
+    "title": "Center Stage",
+    "year": 2000,
+    "douban": 8.2,
+    "imdb": 6.7,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Music",
+    "title": "8 Mile",
+    "year": 2002,
+    "douban": 8.3,
+    "imdb": 7.0,
+    "diff": 1.3000000000000007
+  },
+  {
+    "genre": "Music",
+    "title": "Begin Again",
+    "year": 2013,
+    "douban": 8.6,
+    "imdb": 7.4,
+    "diff": 1.1999999999999993
+  },
+  {
+    "genre": "Music",
+    "title": "Billy Elliot",
+    "year": 2000,
+    "douban": 8.8,
+    "imdb": 7.7,
+    "diff": 1.1000000000000005
+  },
+  {
+    "genre": "Music",
+    "title": "Music and Lyrics",
+    "year": 2007,
+    "douban": 7.6,
+    "imdb": 6.5,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Music",
+    "title": "Step Up 2: The Streets",
+    "year": 2008,
+    "douban": 7.3,
+    "imdb": 6.2,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Music",
+    "title": "Samsara",
+    "year": 2011,
+    "douban": 7.5,
+    "imdb": 8.5,
+    "diff": -1.0
+  },
+  {
+    "genre": "Music",
+    "title": "Bamboozled",
+    "year": 2000,
+    "douban": 7.5,
+    "imdb": 6.5,
+    "diff": 1.0
+  },
+  {
+    "genre": "Music",
+    "title": "Hedwig and the Angry Inch",
+    "year": 2001,
+    "douban": 8.7,
+    "imdb": 7.8,
+    "diff": 0.8999999999999995
+  },
+  {
+    "genre": "Music",
+    "title": "August Rush",
+    "year": 2007,
+    "douban": 8.3,
+    "imdb": 7.5,
+    "diff": 0.8000000000000007
+  },
+  {
+    "genre": "Music",
+    "title": "Ray",
+    "year": 2004,
+    "douban": 8.4,
+    "imdb": 7.7,
+    "diff": 0.7000000000000002
+  },
+  {
+    "genre": "Music",
+    "title": "Hairspray",
+    "year": 2007,
+    "douban": 7.4,
+    "imdb": 6.7,
+    "diff": 0.7000000000000002
+  },
+  {
+    "genre": "Music",
+    "title": "Hustle & Flow",
+    "year": 2005,
+    "douban": 8.0,
+    "imdb": 7.4,
+    "diff": 0.5999999999999996
+  },
+  {
+    "genre": "Music",
+    "title": "Once",
+    "year": 2007,
+    "douban": 8.3,
+    "imdb": 7.9,
+    "diff": 0.40000000000000036
+  },
+  {
+    "genre": "Music",
+    "title": "High Fidelity",
+    "year": 2000,
+    "douban": 7.3,
+    "imdb": 7.6,
+    "diff": -0.2999999999999998
+  },
+  {
+    "genre": "Music",
+    "title": "Walk the Line",
+    "year": 2005,
+    "douban": 7.7,
+    "imdb": 7.9,
+    "diff": -0.20000000000000018
+  },
+  {
+    "genre": "Music",
+    "title": "Straight Outta Compton",
+    "year": 2015,
+    "douban": 7.8,
+    "imdb": 7.9,
+    "diff": -0.10000000000000053
+  },
+  {
+    "genre": "Music",
+    "title": "Whiplash",
+    "year": 2014,
+    "douban": 8.6,
+    "imdb": 8.5,
+    "diff": 0.09999999999999964
+  },
+  {
+    "genre": "Musical",
+    "title": "High School Musical 3: Senior Year",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 4.5,
+    "diff": 3.0
+  },
+  {
+    "genre": "Musical",
+    "title": "High School Musical",
+    "year": 2006,
+    "douban": 7.8,
+    "imdb": 5.2,
+    "diff": 2.5999999999999996
+  },
+  {
+    "genre": "Musical",
+    "title": "Chicago",
+    "year": 2002,
+    "douban": 8.9,
+    "imdb": 7.2,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Musical",
+    "title": "Rio",
+    "year": 2011,
+    "douban": 8.3,
+    "imdb": 7.0,
+    "diff": 1.3000000000000007
+  },
+  {
+    "genre": "Musical",
+    "title": "Mamma Mia!",
+    "year": 2008,
+    "douban": 7.6,
+    "imdb": 6.3,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Musical",
+    "title": "Step Up 2: The Streets",
+    "year": 2008,
+    "douban": 7.3,
+    "imdb": 6.2,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Musical",
+    "title": "The Phantom of the Opera",
+    "year": 2004,
+    "douban": 8.5,
+    "imdb": 7.4,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Musical",
+    "title": "The Sound of Music",
+    "year": 1965,
+    "douban": 9.1,
+    "imdb": 8.0,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Musical",
+    "title": "Frozen",
+    "year": 2013,
+    "douban": 8.5,
+    "imdb": 7.6,
+    "diff": 0.9000000000000004
+  },
+  {
+    "genre": "Musical",
+    "title": "Corpse Bride",
+    "year": 2005,
+    "douban": 8.3,
+    "imdb": 7.4,
+    "diff": 0.9000000000000004
+  },
+  {
+    "genre": "Musical",
+    "title": "Hedwig and the Angry Inch",
+    "year": 2001,
+    "douban": 8.7,
+    "imdb": 7.8,
+    "diff": 0.8999999999999995
+  },
+  {
+    "genre": "Musical",
+    "title": "Singin' in the Rain",
+    "year": 1952,
+    "douban": 9.1,
+    "imdb": 8.3,
+    "diff": 0.7999999999999989
+  },
+  {
+    "genre": "Musical",
+    "title": "Hairspray",
+    "year": 2007,
+    "douban": 7.4,
+    "imdb": 6.7,
+    "diff": 0.7000000000000002
+  },
+  {
+    "genre": "Musical",
+    "title": "The Princess and the Frog",
+    "year": 2009,
+    "douban": 7.7,
+    "imdb": 7.1,
+    "diff": 0.6000000000000005
+  },
+  {
+    "genre": "Musical",
+    "title": "Aladdin",
+    "year": 1992,
+    "douban": 7.4,
+    "imdb": 8.0,
+    "diff": -0.5999999999999996
+  },
+  {
+    "genre": "Musical",
+    "title": "The Lion King",
+    "year": 1994,
+    "douban": 9.1,
+    "imdb": 8.5,
+    "diff": 0.5999999999999996
+  },
+  {
+    "genre": "Musical",
+    "title": "Moulin Rouge!",
+    "year": 2001,
+    "douban": 7.8,
+    "imdb": 7.6,
+    "diff": 0.20000000000000018
+  },
+  {
+    "genre": "Musical",
+    "title": "Dancer in the Dark",
+    "year": 2000,
+    "douban": 8.2,
+    "imdb": 8.0,
+    "diff": 0.1999999999999993
+  },
+  {
+    "genre": "Mystery",
+    "title": "Cargo",
+    "year": 2009,
+    "douban": 8.8,
+    "imdb": 6.2,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "Mystery",
+    "title": "Oldboy",
+    "year": 2003,
+    "douban": 6.5,
+    "imdb": 8.4,
+    "diff": -1.9000000000000004
+  },
+  {
+    "genre": "Mystery",
+    "title": "The Pink Panther",
+    "year": 2006,
+    "douban": 7.4,
+    "imdb": 5.6,
+    "diff": 1.8000000000000007
+  },
+  {
+    "genre": "Mystery",
+    "title": "Life",
+    "year": 2017,
+    "douban": 6.5,
+    "imdb": 8.3,
+    "diff": -1.8000000000000007
+  },
+  {
+    "genre": "Mystery",
+    "title": "One Missed Call",
+    "year": 2008,
+    "douban": 5.7,
+    "imdb": 3.9,
+    "diff": 1.8000000000000003
+  },
+  {
+    "genre": "Mystery",
+    "title": "Miami Vice",
+    "year": 2006,
+    "douban": 5.8,
+    "imdb": 7.5,
+    "diff": -1.7000000000000002
+  },
+  {
+    "genre": "Mystery",
+    "title": "Hide and Seek",
+    "year": 2005,
+    "douban": 7.5,
+    "imdb": 5.9,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Mystery",
+    "title": "Triangle",
+    "year": 2009,
+    "douban": 8.5,
+    "imdb": 6.9,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Mystery",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "year": 2002,
+    "douban": 8.9,
+    "imdb": 7.4,
+    "diff": 1.5
+  },
+  {
+    "genre": "Mystery",
+    "title": "The Omen",
+    "year": 1976,
+    "douban": 6.1,
+    "imdb": 7.6,
+    "diff": -1.5
+  },
+  {
+    "genre": "Mystery",
+    "title": "The Skeleton Key",
+    "year": 2005,
+    "douban": 8.0,
+    "imdb": 6.5,
+    "diff": 1.5
+  },
+  {
+    "genre": "Mystery",
+    "title": "Exorcist: The Beginning",
+    "year": 2004,
+    "douban": 6.5,
+    "imdb": 5.1,
+    "diff": 1.4000000000000004
+  },
+  {
+    "genre": "Mystery",
+    "title": "Cry_Wolf",
+    "year": 2005,
+    "douban": 7.2,
+    "imdb": 5.9,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Mystery",
+    "title": "Harry Potter and the Goblet of Fire",
+    "year": 2005,
+    "douban": 8.8,
+    "imdb": 7.6,
+    "diff": 1.200000000000001
+  },
+  {
+    "genre": "Mystery",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "year": 2004,
+    "douban": 9.0,
+    "imdb": 7.8,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Mystery",
+    "title": "An American Haunting",
+    "year": 2005,
+    "douban": 6.2,
+    "imdb": 5.0,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Mystery",
+    "title": "Orphan",
+    "year": 2009,
+    "douban": 8.2,
+    "imdb": 7.0,
+    "diff": 1.1999999999999993
+  },
+  {
+    "genre": "Mystery",
+    "title": "Mindhunters",
+    "year": 2004,
+    "douban": 7.6,
+    "imdb": 6.4,
+    "diff": 1.1999999999999993
+  },
+  {
+    "genre": "Mystery",
+    "title": "Chloe",
+    "year": 2009,
+    "douban": 7.4,
+    "imdb": 6.3,
+    "diff": 1.1000000000000005
+  },
+  {
+    "genre": "Mystery",
+    "title": "Silent Hill",
+    "year": 2006,
+    "douban": 7.7,
+    "imdb": 6.6,
+    "diff": 1.1000000000000005
+  },
+  {
+    "genre": "Mystery",
+    "title": "Frequency",
+    "year": 2000,
+    "douban": 8.4,
+    "imdb": 7.3,
+    "diff": 1.1000000000000005
+  },
+  {
+    "genre": "Mystery",
+    "title": "K-PAX",
+    "year": 2001,
+    "douban": 8.5,
+    "imdb": 7.4,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Mystery",
+    "title": "Escape Plan",
+    "year": 2013,
+    "douban": 7.8,
+    "imdb": 6.7,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Mystery",
+    "title": "Source Code",
+    "year": 2011,
+    "douban": 8.6,
+    "imdb": 7.5,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Mystery",
+    "title": "Annabelle",
+    "year": 2014,
+    "douban": 6.5,
+    "imdb": 5.4,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Mystery",
+    "title": "The Thing",
+    "year": 1982,
+    "douban": 7.1,
+    "imdb": 8.2,
+    "diff": -1.0999999999999996
+  },
+  {
+    "genre": "Mystery",
+    "title": "I, Robot",
+    "year": 2004,
+    "douban": 8.2,
+    "imdb": 7.1,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Mystery",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "year": 2007,
+    "douban": 8.6,
+    "imdb": 7.5,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Mystery",
+    "title": "The 6th Day",
+    "year": 2000,
+    "douban": 7.0,
+    "imdb": 5.9,
+    "diff": 1.0999999999999996
+  },
+  {
+    "genre": "Mystery",
+    "title": "Paycheck",
+    "year": 2003,
+    "douban": 7.3,
+    "imdb": 6.3,
+    "diff": 1.0
+  },
+  {
+    "genre": "News",
+    "title": "Capitalism: A Love Story",
+    "year": 2009,
+    "douban": 8.2,
+    "imdb": 7.4,
+    "diff": 0.7999999999999989
+  },
+  {
+    "genre": "News",
+    "title": "The Square",
+    "year": 2013,
+    "douban": 7.7,
+    "imdb": 8.1,
+    "diff": -0.39999999999999947
+  },
+  {
+    "genre": "Reality-TV",
+    "title": "Gone, Baby, Gone",
+    "year": 2007,
+    "douban": 7.8,
+    "imdb": 6.6,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Romance",
+    "title": "High School Musical 3: Senior Year",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 4.5,
+    "diff": 3.0
+  },
+  {
+    "genre": "Romance",
+    "title": "Catwoman",
+    "year": 2004,
+    "douban": 5.9,
+    "imdb": 3.3,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "Romance",
+    "title": "High School Musical",
+    "year": 2006,
+    "douban": 7.8,
+    "imdb": 5.2,
+    "diff": 2.5999999999999996
+  },
+  {
+    "genre": "Romance",
+    "title": "Swept Away",
+    "year": 2002,
+    "douban": 6.1,
+    "imdb": 3.6,
+    "diff": 2.4999999999999996
+  },
+  {
+    "genre": "Romance",
+    "title": "Twilight",
+    "year": 2008,
+    "douban": 7.6,
+    "imdb": 5.2,
+    "diff": 2.3999999999999995
+  },
+  {
+    "genre": "Romance",
+    "title": "The Twilight Saga: New Moon",
+    "year": 2009,
+    "douban": 6.9,
+    "imdb": 4.6,
+    "diff": 2.3000000000000007
+  },
+  {
+    "genre": "Romance",
+    "title": "Bella",
+    "year": 2006,
+    "douban": 9.5,
+    "imdb": 7.4,
+    "diff": 2.0999999999999996
+  },
+  {
+    "genre": "Romance",
+    "title": "New York Minute",
+    "year": 2004,
+    "douban": 6.8,
+    "imdb": 4.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "Romance",
+    "title": "Pearl Harbor",
+    "year": 2001,
+    "douban": 8.1,
+    "imdb": 6.1,
+    "diff": 2.0
+  },
+  {
+    "genre": "Romance",
+    "title": "Meet Dave",
+    "year": 2008,
+    "douban": 6.9,
+    "imdb": 4.9,
+    "diff": 2.0
+  },
+  {
+    "genre": "Romance",
+    "title": "The Twilight Saga: Breaking Dawn - Part 2",
+    "year": 2012,
+    "douban": 7.3,
+    "imdb": 5.5,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "Romance",
+    "title": "Titanic",
+    "year": 1997,
+    "douban": 9.5,
+    "imdb": 7.7,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "Romance",
+    "title": "Legally Blonde",
+    "year": 2001,
+    "douban": 7.9,
+    "imdb": 6.2,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Romance",
+    "title": "D.E.B.S.",
+    "year": 2004,
+    "douban": 6.9,
+    "imdb": 5.3,
+    "diff": 1.6000000000000005
+  },
+  {
+    "genre": "Romance",
+    "title": "Earth",
+    "year": 1998,
+    "douban": 9.4,
+    "imdb": 7.8,
+    "diff": 1.6000000000000005
+  },
+  {
+    "genre": "Romance",
+    "title": "Captain Corelli's Mandolin",
+    "year": 2001,
+    "douban": 7.5,
+    "imdb": 5.9,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Romance",
+    "title": "Just My Luck",
+    "year": 2006,
+    "douban": 6.8,
+    "imdb": 5.3,
+    "diff": 1.5
+  },
+  {
+    "genre": "Romance",
+    "title": "Center Stage",
+    "year": 2000,
+    "douban": 8.2,
+    "imdb": 6.7,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Romance",
+    "title": "The Family Man",
+    "year": 2000,
+    "douban": 8.2,
+    "imdb": 6.7,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Romance",
+    "title": "Click",
+    "year": 2006,
+    "douban": 7.8,
+    "imdb": 6.4,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Romance",
+    "title": "Flipped",
+    "year": 2010,
+    "douban": 9.1,
+    "imdb": 7.7,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Romance",
+    "title": "Under the Tuscan Sun",
+    "year": 2003,
+    "douban": 8.1,
+    "imdb": 6.7,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Romance",
+    "title": "The Princess Diaries",
+    "year": 2001,
+    "douban": 7.6,
+    "imdb": 6.2,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Romance",
+    "title": "He's Just Not That Into You",
+    "year": 2009,
+    "douban": 7.8,
+    "imdb": 6.4,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Romance",
+    "title": "Bridget Jones: The Edge of Reason",
+    "year": 2004,
+    "douban": 7.3,
+    "imdb": 5.9,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Romance",
+    "title": "The Devil Wears Prada",
+    "year": 2006,
+    "douban": 8.2,
+    "imdb": 6.8,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Romance",
+    "title": "Saving Face",
+    "year": 2004,
+    "douban": 8.9,
+    "imdb": 7.6,
+    "diff": 1.3000000000000007
+  },
+  {
+    "genre": "Romance",
+    "title": "The Secret Life of Walter Mitty",
+    "year": 2013,
+    "douban": 8.6,
+    "imdb": 7.3,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Romance",
+    "title": "Mamma Mia!",
+    "year": 2008,
+    "douban": 7.6,
+    "imdb": 6.3,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Romance",
+    "title": "Mr. & Mrs. Smith",
+    "year": 2005,
+    "douban": 7.8,
+    "imdb": 6.5,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Cargo",
+    "year": 2009,
+    "douban": 8.8,
+    "imdb": 6.2,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Home",
+    "year": 2015,
+    "douban": 9.2,
+    "imdb": 6.7,
+    "diff": 2.499999999999999
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "2012",
+    "year": 2009,
+    "douban": 8.0,
+    "imdb": 5.8,
+    "diff": 2.2
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "The Matrix Revolutions",
+    "year": 2003,
+    "douban": 8.8,
+    "imdb": 6.7,
+    "diff": 2.1000000000000005
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Meet Dave",
+    "year": 2008,
+    "douban": 6.9,
+    "imdb": 4.9,
+    "diff": 2.0
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "The Day After Tomorrow",
+    "year": 2004,
+    "douban": 8.3,
+    "imdb": 6.4,
+    "diff": 1.9000000000000004
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Resident Evil: Apocalypse",
+    "year": 2004,
+    "douban": 8.0,
+    "imdb": 6.2,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Stealth",
+    "year": 2005,
+    "douban": 6.7,
+    "imdb": 5.0,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Resident Evil",
+    "year": 2002,
+    "douban": 8.3,
+    "imdb": 6.7,
+    "diff": 1.6000000000000005
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "A.I. Artificial Intelligence",
+    "year": 2001,
+    "douban": 8.7,
+    "imdb": 7.1,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "G.I. Joe: The Rise of Cobra",
+    "year": 2009,
+    "douban": 7.3,
+    "imdb": 5.8,
+    "diff": 1.5
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "AVP: Alien vs. Predator",
+    "year": 2004,
+    "douban": 7.1,
+    "imdb": 5.6,
+    "diff": 1.5
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "The Matrix Reloaded",
+    "year": 2003,
+    "douban": 8.7,
+    "imdb": 7.2,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "year": 2002,
+    "douban": 8.1,
+    "imdb": 6.7,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "The Core",
+    "year": 2003,
+    "douban": 6.8,
+    "imdb": 5.4,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Minions",
+    "year": 2015,
+    "douban": 7.8,
+    "imdb": 6.4,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Lilo & Stitch",
+    "year": 2002,
+    "douban": 8.6,
+    "imdb": 7.2,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Transformers",
+    "year": 2007,
+    "douban": 8.4,
+    "imdb": 7.1,
+    "diff": 1.3000000000000007
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "The Truman Show",
+    "year": 1998,
+    "douban": 9.4,
+    "imdb": 8.1,
+    "diff": 1.3000000000000007
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "year": 2005,
+    "douban": 8.1,
+    "imdb": 6.8,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "The Cell",
+    "year": 2000,
+    "douban": 7.6,
+    "imdb": 6.3,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Real Steel",
+    "year": 2011,
+    "douban": 8.3,
+    "imdb": 7.1,
+    "diff": 1.200000000000001
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Planet of the Apes",
+    "year": 2001,
+    "douban": 6.9,
+    "imdb": 5.7,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "The Stepford Wives",
+    "year": 2004,
+    "douban": 6.4,
+    "imdb": 5.2,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "The Tuxedo",
+    "year": 2002,
+    "douban": 6.5,
+    "imdb": 5.3,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Resident Evil: Extinction",
+    "year": 2007,
+    "douban": 7.5,
+    "imdb": 6.3,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "The Butterfly Effect",
+    "year": 2004,
+    "douban": 8.9,
+    "imdb": 7.7,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Destiny",
+    "year": 2014,
+    "douban": 6.9,
+    "imdb": 8.1,
+    "diff": -1.1999999999999993
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Death Race",
+    "year": 2008,
+    "douban": 7.6,
+    "imdb": 6.4,
+    "diff": 1.1999999999999993
+  },
+  {
+    "genre": "Sci-Fi",
+    "title": "Frequency",
+    "year": 2000,
+    "douban": 8.4,
+    "imdb": 7.3,
+    "diff": 1.1000000000000005
+  },
+  {
+    "genre": "Sport",
+    "title": "Rocky Balboa",
+    "year": 2006,
+    "douban": 8.7,
+    "imdb": 7.2,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "Sport",
+    "title": "Coach Carter",
+    "year": 2005,
+    "douban": 8.6,
+    "imdb": 7.2,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Sport",
+    "title": "Facing the Giants",
+    "year": 2006,
+    "douban": 8.0,
+    "imdb": 6.7,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Sport",
+    "title": "Radio",
+    "year": 2003,
+    "douban": 8.2,
+    "imdb": 6.9,
+    "diff": 1.299999999999999
+  },
+  {
+    "genre": "Sport",
+    "title": "Dreamer: Inspired by a True Story",
+    "year": 2005,
+    "douban": 8.2,
+    "imdb": 6.9,
+    "diff": 1.299999999999999
+  },
+  {
+    "genre": "Sport",
+    "title": "Real Steel",
+    "year": 2011,
+    "douban": 8.3,
+    "imdb": 7.1,
+    "diff": 1.200000000000001
+  },
+  {
+    "genre": "Sport",
+    "title": "The World's Fastest Indian",
+    "year": 2005,
+    "douban": 8.9,
+    "imdb": 7.9,
+    "diff": 1.0
+  },
+  {
+    "genre": "Sport",
+    "title": "McFarland, USA",
+    "year": 2015,
+    "douban": 8.4,
+    "imdb": 7.4,
+    "diff": 1.0
+  },
+  {
+    "genre": "Sport",
+    "title": "Cars",
+    "year": 2006,
+    "douban": 8.2,
+    "imdb": 7.2,
+    "diff": 0.9999999999999991
+  },
+  {
+    "genre": "Sport",
+    "title": "The Blind Side",
+    "year": 2009,
+    "douban": 8.7,
+    "imdb": 7.7,
+    "diff": 0.9999999999999991
+  },
+  {
+    "genre": "Sport",
+    "title": "Chasing Mavericks",
+    "year": 2012,
+    "douban": 8.1,
+    "imdb": 7.2,
+    "diff": 0.8999999999999995
+  },
+  {
+    "genre": "Sport",
+    "title": "Invictus",
+    "year": 2009,
+    "douban": 8.2,
+    "imdb": 7.4,
+    "diff": 0.7999999999999989
+  },
+  {
+    "genre": "Sport",
+    "title": "Million Dollar Baby",
+    "year": 2004,
+    "douban": 8.8,
+    "imdb": 8.1,
+    "diff": 0.7000000000000011
+  },
+  {
+    "genre": "Sport",
+    "title": "Warrior",
+    "year": 2011,
+    "douban": 8.9,
+    "imdb": 8.2,
+    "diff": 0.7000000000000011
+  },
+  {
+    "genre": "Sport",
+    "title": "Moneyball",
+    "year": 2011,
+    "douban": 8.3,
+    "imdb": 7.6,
+    "diff": 0.7000000000000011
+  },
+  {
+    "genre": "Sport",
+    "title": "Rush",
+    "year": 2013,
+    "douban": 8.7,
+    "imdb": 8.1,
+    "diff": 0.5999999999999996
+  },
+  {
+    "genre": "Sport",
+    "title": "Everest",
+    "year": 2015,
+    "douban": 7.5,
+    "imdb": 7.1,
+    "diff": 0.40000000000000036
+  },
+  {
+    "genre": "Sport",
+    "title": "The Wrestler",
+    "year": 2008,
+    "douban": 8.3,
+    "imdb": 7.9,
+    "diff": 0.40000000000000036
+  },
+  {
+    "genre": "Sport",
+    "title": "Unbroken",
+    "year": 2014,
+    "douban": 7.0,
+    "imdb": 7.2,
+    "diff": -0.20000000000000018
+  },
+  {
+    "genre": "Thriller",
+    "title": "Cargo",
+    "year": 2009,
+    "douban": 8.8,
+    "imdb": 6.2,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "Thriller",
+    "title": "Catwoman",
+    "year": 2004,
+    "douban": 5.9,
+    "imdb": 3.3,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "Thriller",
+    "title": "Oldboy",
+    "year": 2003,
+    "douban": 6.5,
+    "imdb": 8.4,
+    "diff": -1.9000000000000004
+  },
+  {
+    "genre": "Thriller",
+    "title": "The Day After Tomorrow",
+    "year": 2004,
+    "douban": 8.3,
+    "imdb": 6.4,
+    "diff": 1.9000000000000004
+  },
+  {
+    "genre": "Thriller",
+    "title": "Resident Evil: Apocalypse",
+    "year": 2004,
+    "douban": 8.0,
+    "imdb": 6.2,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "Thriller",
+    "title": "Stealth",
+    "year": 2005,
+    "douban": 6.7,
+    "imdb": 5.0,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Thriller",
+    "title": "Ghost Rider: Spirit of Vengeance",
+    "year": 2011,
+    "douban": 6.0,
+    "imdb": 4.3,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "Thriller",
+    "title": "Miami Vice",
+    "year": 2006,
+    "douban": 5.8,
+    "imdb": 7.5,
+    "diff": -1.7000000000000002
+  },
+  {
+    "genre": "Thriller",
+    "title": "Vertical Limit",
+    "year": 2000,
+    "douban": 7.6,
+    "imdb": 5.9,
+    "diff": 1.6999999999999993
+  },
+  {
+    "genre": "Thriller",
+    "title": "Hide and Seek",
+    "year": 2005,
+    "douban": 7.5,
+    "imdb": 5.9,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Thriller",
+    "title": "Triangle",
+    "year": 2009,
+    "douban": 8.5,
+    "imdb": 6.9,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Thriller",
+    "title": "Ghost Rider",
+    "year": 2007,
+    "douban": 6.8,
+    "imdb": 5.2,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "Thriller",
+    "title": "xXx",
+    "year": 2002,
+    "douban": 7.3,
+    "imdb": 5.8,
+    "diff": 1.5
+  },
+  {
+    "genre": "Thriller",
+    "title": "Charlie's Angels",
+    "year": 2000,
+    "douban": 7.0,
+    "imdb": 5.5,
+    "diff": 1.5
+  },
+  {
+    "genre": "Thriller",
+    "title": "G.I. Joe: The Rise of Cobra",
+    "year": 2009,
+    "douban": 7.3,
+    "imdb": 5.8,
+    "diff": 1.5
+  },
+  {
+    "genre": "Thriller",
+    "title": "AVP: Alien vs. Predator",
+    "year": 2004,
+    "douban": 7.1,
+    "imdb": 5.6,
+    "diff": 1.5
+  },
+  {
+    "genre": "Thriller",
+    "title": "The Skeleton Key",
+    "year": 2005,
+    "douban": 8.0,
+    "imdb": 6.5,
+    "diff": 1.5
+  },
+  {
+    "genre": "Thriller",
+    "title": "Miracle at St. Anna",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 6.0,
+    "diff": 1.5
+  },
+  {
+    "genre": "Thriller",
+    "title": "The Grudge 2",
+    "year": 2006,
+    "douban": 6.4,
+    "imdb": 5.0,
+    "diff": 1.4000000000000004
+  },
+  {
+    "genre": "Thriller",
+    "title": "Exorcist: The Beginning",
+    "year": 2004,
+    "douban": 6.5,
+    "imdb": 5.1,
+    "diff": 1.4000000000000004
+  },
+  {
+    "genre": "Thriller",
+    "title": "The Core",
+    "year": 2003,
+    "douban": 6.8,
+    "imdb": 5.4,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Thriller",
+    "title": "Lara Croft: Tomb Raider",
+    "year": 2001,
+    "douban": 7.1,
+    "imdb": 5.7,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "Thriller",
+    "title": "Poseidon",
+    "year": 2006,
+    "douban": 6.9,
+    "imdb": 5.6,
+    "diff": 1.3000000000000007
+  },
+  {
+    "genre": "Thriller",
+    "title": "Stay Alive",
+    "year": 2006,
+    "douban": 6.4,
+    "imdb": 5.1,
+    "diff": 1.3000000000000007
+  },
+  {
+    "genre": "Thriller",
+    "title": "John Q",
+    "year": 2002,
+    "douban": 8.3,
+    "imdb": 7.0,
+    "diff": 1.3000000000000007
+  },
+  {
+    "genre": "Thriller",
+    "title": "The Mummy Returns",
+    "year": 2001,
+    "douban": 7.6,
+    "imdb": 6.3,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Thriller",
+    "title": "Hannibal Rising",
+    "year": 2007,
+    "douban": 7.5,
+    "imdb": 6.2,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Thriller",
+    "title": "The Cell",
+    "year": 2000,
+    "douban": 7.6,
+    "imdb": 6.3,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Thriller",
+    "title": "Mr. & Mrs. Smith",
+    "year": 2005,
+    "douban": 7.8,
+    "imdb": 6.5,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "Thriller",
+    "title": "Cry_Wolf",
+    "year": 2005,
+    "douban": 7.2,
+    "imdb": 5.9,
+    "diff": 1.2999999999999998
+  },
+  {
+    "genre": "War",
+    "title": "Pearl Harbor",
+    "year": 2001,
+    "douban": 8.1,
+    "imdb": 6.1,
+    "diff": 2.0
+  },
+  {
+    "genre": "War",
+    "title": "Windtalkers",
+    "year": 2002,
+    "douban": 7.7,
+    "imdb": 6.0,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "War",
+    "title": "Earth",
+    "year": 1998,
+    "douban": 9.4,
+    "imdb": 7.8,
+    "diff": 1.6000000000000005
+  },
+  {
+    "genre": "War",
+    "title": "Captain Corelli's Mandolin",
+    "year": 2001,
+    "douban": 7.5,
+    "imdb": 5.9,
+    "diff": 1.5999999999999996
+  },
+  {
+    "genre": "War",
+    "title": "Miracle at St. Anna",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 6.0,
+    "diff": 1.5
+  },
+  {
+    "genre": "War",
+    "title": "Kingdom of Heaven",
+    "year": 2005,
+    "douban": 8.7,
+    "imdb": 7.2,
+    "diff": 1.4999999999999991
+  },
+  {
+    "genre": "War",
+    "title": "The Boy in the Striped Pajamas",
+    "year": 2008,
+    "douban": 9.2,
+    "imdb": 7.8,
+    "diff": 1.3999999999999995
+  },
+  {
+    "genre": "War",
+    "title": "Act of Valor",
+    "year": 2012,
+    "douban": 7.7,
+    "imdb": 6.5,
+    "diff": 1.2000000000000002
+  },
+  {
+    "genre": "War",
+    "title": "Gone with the Wind",
+    "year": 1939,
+    "douban": 9.3,
+    "imdb": 8.2,
+    "diff": 1.1000000000000014
+  },
+  {
+    "genre": "War",
+    "title": "Valiant",
+    "year": 2005,
+    "douban": 6.7,
+    "imdb": 5.6,
+    "diff": 1.1000000000000005
+  },
+  {
+    "genre": "War",
+    "title": "Black Hawk Down",
+    "year": 2001,
+    "douban": 8.7,
+    "imdb": 7.7,
+    "diff": 0.9999999999999991
+  },
+  {
+    "genre": "War",
+    "title": "War Horse",
+    "year": 2011,
+    "douban": 8.2,
+    "imdb": 7.2,
+    "diff": 0.9999999999999991
+  },
+  {
+    "genre": "War",
+    "title": "Cold Mountain",
+    "year": 2003,
+    "douban": 8.2,
+    "imdb": 7.2,
+    "diff": 0.9999999999999991
+  },
+  {
+    "genre": "War",
+    "title": "Behind Enemy Lines",
+    "year": 2001,
+    "douban": 7.3,
+    "imdb": 6.4,
+    "diff": 0.8999999999999995
+  },
+  {
+    "genre": "War",
+    "title": "Enemy at the Gates",
+    "year": 2001,
+    "douban": 8.4,
+    "imdb": 7.6,
+    "diff": 0.8000000000000007
+  },
+  {
+    "genre": "War",
+    "title": "Hotel Rwanda",
+    "year": 2004,
+    "douban": 8.9,
+    "imdb": 8.1,
+    "diff": 0.8000000000000007
+  },
+  {
+    "genre": "War",
+    "title": "The Pianist",
+    "year": 2002,
+    "douban": 9.3,
+    "imdb": 8.5,
+    "diff": 0.8000000000000007
+  },
+  {
+    "genre": "War",
+    "title": "Atonement",
+    "year": 2007,
+    "douban": 8.6,
+    "imdb": 7.8,
+    "diff": 0.7999999999999998
+  },
+  {
+    "genre": "War",
+    "title": "The Imitation Game",
+    "year": 2014,
+    "douban": 8.8,
+    "imdb": 8.1,
+    "diff": 0.7000000000000011
+  },
+  {
+    "genre": "War",
+    "title": "Australia",
+    "year": 2008,
+    "douban": 7.3,
+    "imdb": 6.6,
+    "diff": 0.7000000000000002
+  },
+  {
+    "genre": "War",
+    "title": "Persepolis",
+    "year": 2007,
+    "douban": 8.7,
+    "imdb": 8.0,
+    "diff": 0.6999999999999993
+  },
+  {
+    "genre": "War",
+    "title": "The Wind That Shakes the Barley",
+    "year": 2006,
+    "douban": 8.1,
+    "imdb": 7.5,
+    "diff": 0.5999999999999996
+  },
+  {
+    "genre": "War",
+    "title": "The Great Raid",
+    "year": 2005,
+    "douban": 7.3,
+    "imdb": 6.7,
+    "diff": 0.5999999999999996
+  },
+  {
+    "genre": "War",
+    "title": "Braveheart",
+    "year": 1995,
+    "douban": 8.9,
+    "imdb": 8.4,
+    "diff": 0.5
+  },
+  {
+    "genre": "War",
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "douban": 9.1,
+    "imdb": 8.6,
+    "diff": 0.5
+  },
+  {
+    "genre": "War",
+    "title": "Lone Survivor",
+    "year": 2013,
+    "douban": 8.1,
+    "imdb": 7.6,
+    "diff": 0.5
+  },
+  {
+    "genre": "War",
+    "title": "Elizabeth: The Golden Age",
+    "year": 2007,
+    "douban": 7.4,
+    "imdb": 6.9,
+    "diff": 0.5
+  },
+  {
+    "genre": "War",
+    "title": "American Sniper",
+    "year": 2014,
+    "douban": 7.7,
+    "imdb": 7.3,
+    "diff": 0.40000000000000036
+  },
+  {
+    "genre": "War",
+    "title": "Jarhead",
+    "year": 2005,
+    "douban": 7.5,
+    "imdb": 7.1,
+    "diff": 0.40000000000000036
+  },
+  {
+    "genre": "War",
+    "title": "Fury",
+    "year": 2014,
+    "douban": 8.0,
+    "imdb": 7.6,
+    "diff": 0.40000000000000036
+  },
+  {
+    "genre": "Western",
+    "title": "A Million Ways to Die in the West",
+    "year": 2014,
+    "douban": 7.0,
+    "imdb": 6.1,
+    "diff": 0.9000000000000004
+  },
+  {
+    "genre": "Western",
+    "title": "Rango",
+    "year": 2011,
+    "douban": 8.0,
+    "imdb": 7.2,
+    "diff": 0.7999999999999998
+  },
+  {
+    "genre": "Western",
+    "title": "The Hateful Eight",
+    "year": 2015,
+    "douban": 8.7,
+    "imdb": 7.9,
+    "diff": 0.7999999999999989
+  },
+  {
+    "genre": "Western",
+    "title": "Django Unchained",
+    "year": 2012,
+    "douban": 8.8,
+    "imdb": 8.5,
+    "diff": 0.3000000000000007
+  },
+  {
+    "genre": "Western",
+    "title": "3:10 to Yuma",
+    "year": 2007,
+    "douban": 8.0,
+    "imdb": 7.8,
+    "diff": 0.20000000000000018
+  },
+  {
+    "genre": "Western",
+    "title": "Shanghai Noon",
+    "year": 2000,
+    "douban": 6.5,
+    "imdb": 6.6,
+    "diff": -0.09999999999999964
+  },
+  {
+    "genre": "Western",
+    "title": "The Revenant",
+    "year": 2015,
+    "douban": 8.0,
+    "imdb": 8.1,
+    "diff": -0.09999999999999964
+  },
+  {
+    "genre": "All",
+    "title": "The Promise",
+    "year": 2005,
+    "douban": 8.9,
+    "imdb": 5.6,
+    "diff": 3.3000000000000007
+  },
+  {
+    "genre": "All",
+    "title": "The Promise",
+    "year": 2005,
+    "douban": 8.9,
+    "imdb": 5.6,
+    "diff": 3.3000000000000007
+  },
+  {
+    "genre": "All",
+    "title": "The Promise",
+    "year": 2005,
+    "douban": 8.9,
+    "imdb": 5.6,
+    "diff": 3.3000000000000007
+  },
+  {
+    "genre": "All",
+    "title": "Meet the Spartans",
+    "year": 2008,
+    "douban": 6.0,
+    "imdb": 2.7,
+    "diff": 3.3
+  },
+  {
+    "genre": "All",
+    "title": "Q",
+    "year": 2011,
+    "douban": 8.8,
+    "imdb": 5.6,
+    "diff": 3.200000000000001
+  },
+  {
+    "genre": "All",
+    "title": "The Kid",
+    "year": 2000,
+    "douban": 9.2,
+    "imdb": 6.1,
+    "diff": 3.0999999999999996
+  },
+  {
+    "genre": "All",
+    "title": "The Kid",
+    "year": 2000,
+    "douban": 9.2,
+    "imdb": 6.1,
+    "diff": 3.0999999999999996
+  },
+  {
+    "genre": "All",
+    "title": "The Kid",
+    "year": 2000,
+    "douban": 9.2,
+    "imdb": 6.1,
+    "diff": 3.0999999999999996
+  },
+  {
+    "genre": "All",
+    "title": "High School Musical 3: Senior Year",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 4.5,
+    "diff": 3.0
+  },
+  {
+    "genre": "All",
+    "title": "High School Musical 3: Senior Year",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 4.5,
+    "diff": 3.0
+  },
+  {
+    "genre": "All",
+    "title": "High School Musical 3: Senior Year",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 4.5,
+    "diff": 3.0
+  },
+  {
+    "genre": "All",
+    "title": "High School Musical 3: Senior Year",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 4.5,
+    "diff": 3.0
+  },
+  {
+    "genre": "All",
+    "title": "High School Musical 3: Senior Year",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 4.5,
+    "diff": 3.0
+  },
+  {
+    "genre": "All",
+    "title": "High School Musical 3: Senior Year",
+    "year": 2008,
+    "douban": 7.5,
+    "imdb": 4.5,
+    "diff": 3.0
+  },
+  {
+    "genre": "All",
+    "title": "Garfield",
+    "year": 2004,
+    "douban": 7.8,
+    "imdb": 5.0,
+    "diff": 2.8
+  },
+  {
+    "genre": "All",
+    "title": "Garfield",
+    "year": 2004,
+    "douban": 7.8,
+    "imdb": 5.0,
+    "diff": 2.8
+  },
+  {
+    "genre": "All",
+    "title": "Garfield",
+    "year": 2004,
+    "douban": 7.8,
+    "imdb": 5.0,
+    "diff": 2.8
+  },
+  {
+    "genre": "All",
+    "title": "Garfield",
+    "year": 2004,
+    "douban": 7.8,
+    "imdb": 5.0,
+    "diff": 2.8
+  },
+  {
+    "genre": "All",
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "year": 2009,
+    "douban": 7.2,
+    "imdb": 4.5,
+    "diff": 2.7
+  },
+  {
+    "genre": "All",
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "year": 2009,
+    "douban": 7.2,
+    "imdb": 4.5,
+    "diff": 2.7
+  },
+  {
+    "genre": "All",
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "year": 2009,
+    "douban": 7.2,
+    "imdb": 4.5,
+    "diff": 2.7
+  },
+  {
+    "genre": "All",
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "year": 2009,
+    "douban": 7.2,
+    "imdb": 4.5,
+    "diff": 2.7
+  },
+  {
+    "genre": "All",
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "year": 2009,
+    "douban": 7.2,
+    "imdb": 4.5,
+    "diff": 2.7
+  },
+  {
+    "genre": "All",
+    "title": "Catwoman",
+    "year": 2004,
+    "douban": 5.9,
+    "imdb": 3.3,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "All",
+    "title": "Cargo",
+    "year": 2009,
+    "douban": 8.8,
+    "imdb": 6.2,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "All",
+    "title": "Cargo",
+    "year": 2009,
+    "douban": 8.8,
+    "imdb": 6.2,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "All",
+    "title": "Catwoman",
+    "year": 2004,
+    "douban": 5.9,
+    "imdb": 3.3,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "All",
+    "title": "Catwoman",
+    "year": 2004,
+    "douban": 5.9,
+    "imdb": 3.3,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "All",
+    "title": "Catwoman",
+    "year": 2004,
+    "douban": 5.9,
+    "imdb": 3.3,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "All",
+    "title": "Catwoman",
+    "year": 2004,
+    "douban": 5.9,
+    "imdb": 3.3,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "All",
+    "title": "Cargo",
+    "year": 2009,
+    "douban": 8.8,
+    "imdb": 6.2,
+    "diff": 2.6000000000000005
+  },
+  {
+    "genre": "All",
+    "title": "High School Musical",
+    "year": 2006,
+    "douban": 7.8,
+    "imdb": 5.2,
+    "diff": 2.5999999999999996
+  },
+  {
+    "genre": "All",
+    "title": "High School Musical",
+    "year": 2006,
+    "douban": 7.8,
+    "imdb": 5.2,
+    "diff": 2.5999999999999996
+  },
+  {
+    "genre": "All",
+    "title": "High School Musical",
+    "year": 2006,
+    "douban": 7.8,
+    "imdb": 5.2,
+    "diff": 2.5999999999999996
+  },
+  {
+    "genre": "All",
+    "title": "High School Musical",
+    "year": 2006,
+    "douban": 7.8,
+    "imdb": 5.2,
+    "diff": 2.5999999999999996
+  },
+  {
+    "genre": "All",
+    "title": "High School Musical",
+    "year": 2006,
+    "douban": 7.8,
+    "imdb": 5.2,
+    "diff": 2.5999999999999996
+  },
+  {
+    "genre": "All",
+    "title": "High School Musical",
+    "year": 2006,
+    "douban": 7.8,
+    "imdb": 5.2,
+    "diff": 2.5999999999999996
+  },
+  {
+    "genre": "All",
+    "title": "Swept Away",
+    "year": 2002,
+    "douban": 6.1,
+    "imdb": 3.6,
+    "diff": 2.4999999999999996
+  },
+  {
+    "genre": "All",
+    "title": "Swept Away",
+    "year": 2002,
+    "douban": 6.1,
+    "imdb": 3.6,
+    "diff": 2.4999999999999996
+  },
+  {
+    "genre": "All",
+    "title": "Home",
+    "year": 2015,
+    "douban": 9.2,
+    "imdb": 6.7,
+    "diff": 2.499999999999999
+  },
+  {
+    "genre": "All",
+    "title": "Home",
+    "year": 2015,
+    "douban": 9.2,
+    "imdb": 6.7,
+    "diff": 2.499999999999999
+  },
+  {
+    "genre": "All",
+    "title": "Home",
+    "year": 2015,
+    "douban": 9.2,
+    "imdb": 6.7,
+    "diff": 2.499999999999999
+  },
+  {
+    "genre": "All",
+    "title": "Home",
+    "year": 2015,
+    "douban": 9.2,
+    "imdb": 6.7,
+    "diff": 2.499999999999999
+  },
+  {
+    "genre": "All",
+    "title": "Home",
+    "year": 2015,
+    "douban": 9.2,
+    "imdb": 6.7,
+    "diff": 2.499999999999999
+  },
+  {
+    "genre": "All",
+    "title": "Home",
+    "year": 2015,
+    "douban": 9.2,
+    "imdb": 6.7,
+    "diff": 2.499999999999999
+  },
+  {
+    "genre": "All",
+    "title": "Twilight",
+    "year": 2008,
+    "douban": 7.6,
+    "imdb": 5.2,
+    "diff": 2.3999999999999995
+  },
+  {
+    "genre": "All",
+    "title": "Cabin Fever",
+    "year": 2016,
+    "douban": 6.1,
+    "imdb": 3.7,
+    "diff": 2.3999999999999995
+  },
+  {
+    "genre": "All",
+    "title": "Twilight",
+    "year": 2008,
+    "douban": 7.6,
+    "imdb": 5.2,
+    "diff": 2.3999999999999995
+  },
+  {
+    "genre": "All",
+    "title": "Twilight",
+    "year": 2008,
+    "douban": 7.6,
+    "imdb": 5.2,
+    "diff": 2.3999999999999995
+  },
+  {
+    "genre": "All",
+    "title": "The Twilight Saga: New Moon",
+    "year": 2009,
+    "douban": 6.9,
+    "imdb": 4.6,
+    "diff": 2.3000000000000007
+  },
+  {
+    "genre": "All",
+    "title": "The Twilight Saga: New Moon",
+    "year": 2009,
+    "douban": 6.9,
+    "imdb": 4.6,
+    "diff": 2.3000000000000007
+  },
+  {
+    "genre": "All",
+    "title": "The Twilight Saga: New Moon",
+    "year": 2009,
+    "douban": 6.9,
+    "imdb": 4.6,
+    "diff": 2.3000000000000007
+  },
+  {
+    "genre": "All",
+    "title": "The Twilight Saga: New Moon",
+    "year": 2009,
+    "douban": 6.9,
+    "imdb": 4.6,
+    "diff": 2.3000000000000007
+  },
+  {
+    "genre": "All",
+    "title": "2012",
+    "year": 2009,
+    "douban": 8.0,
+    "imdb": 5.8,
+    "diff": 2.2
+  },
+  {
+    "genre": "All",
+    "title": "2012",
+    "year": 2009,
+    "douban": 8.0,
+    "imdb": 5.8,
+    "diff": 2.2
+  },
+  {
+    "genre": "All",
+    "title": "2012",
+    "year": 2009,
+    "douban": 8.0,
+    "imdb": 5.8,
+    "diff": 2.2
+  },
+  {
+    "genre": "All",
+    "title": "Babe: Pig in the City",
+    "year": 1998,
+    "douban": 7.9,
+    "imdb": 5.8,
+    "diff": 2.1000000000000005
+  },
+  {
+    "genre": "All",
+    "title": "The Matrix Revolutions",
+    "year": 2003,
+    "douban": 8.8,
+    "imdb": 6.7,
+    "diff": 2.1000000000000005
+  },
+  {
+    "genre": "All",
+    "title": "The Matrix Revolutions",
+    "year": 2003,
+    "douban": 8.8,
+    "imdb": 6.7,
+    "diff": 2.1000000000000005
+  },
+  {
+    "genre": "All",
+    "title": "Babe: Pig in the City",
+    "year": 1998,
+    "douban": 7.9,
+    "imdb": 5.8,
+    "diff": 2.1000000000000005
+  },
+  {
+    "genre": "All",
+    "title": "Babe: Pig in the City",
+    "year": 1998,
+    "douban": 7.9,
+    "imdb": 5.8,
+    "diff": 2.1000000000000005
+  },
+  {
+    "genre": "All",
+    "title": "Babe: Pig in the City",
+    "year": 1998,
+    "douban": 7.9,
+    "imdb": 5.8,
+    "diff": 2.1000000000000005
+  },
+  {
+    "genre": "All",
+    "title": "Babe: Pig in the City",
+    "year": 1998,
+    "douban": 7.9,
+    "imdb": 5.8,
+    "diff": 2.1000000000000005
+  },
+  {
+    "genre": "All",
+    "title": "Bella",
+    "year": 2006,
+    "douban": 9.5,
+    "imdb": 7.4,
+    "diff": 2.0999999999999996
+  },
+  {
+    "genre": "All",
+    "title": "Bella",
+    "year": 2006,
+    "douban": 9.5,
+    "imdb": 7.4,
+    "diff": 2.0999999999999996
+  },
+  {
+    "genre": "All",
+    "title": "Mr. Bean's Holiday",
+    "year": 2007,
+    "douban": 8.3,
+    "imdb": 6.3,
+    "diff": 2.000000000000001
+  },
+  {
+    "genre": "All",
+    "title": "Mr. Bean's Holiday",
+    "year": 2007,
+    "douban": 8.3,
+    "imdb": 6.3,
+    "diff": 2.000000000000001
+  },
+  {
+    "genre": "All",
+    "title": "Pearl Harbor",
+    "year": 2001,
+    "douban": 8.1,
+    "imdb": 6.1,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Last Holiday",
+    "year": 2006,
+    "douban": 8.4,
+    "imdb": 6.4,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Pearl Harbor",
+    "year": 2001,
+    "douban": 8.1,
+    "imdb": 6.1,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Pearl Harbor",
+    "year": 2001,
+    "douban": 8.1,
+    "imdb": 6.1,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Pearl Harbor",
+    "year": 2001,
+    "douban": 8.1,
+    "imdb": 6.1,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Last Holiday",
+    "year": 2006,
+    "douban": 8.4,
+    "imdb": 6.4,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "New York Minute",
+    "year": 2004,
+    "douban": 6.8,
+    "imdb": 4.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Pearl Harbor",
+    "year": 2001,
+    "douban": 8.1,
+    "imdb": 6.1,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Return to Never Land",
+    "year": 2002,
+    "douban": 7.8,
+    "imdb": 5.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "New York Minute",
+    "year": 2004,
+    "douban": 6.8,
+    "imdb": 4.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "New York Minute",
+    "year": 2004,
+    "douban": 6.8,
+    "imdb": 4.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "New York Minute",
+    "year": 2004,
+    "douban": 6.8,
+    "imdb": 4.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Return to Never Land",
+    "year": 2002,
+    "douban": 7.8,
+    "imdb": 5.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Meet Dave",
+    "year": 2008,
+    "douban": 6.9,
+    "imdb": 4.9,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Meet Dave",
+    "year": 2008,
+    "douban": 6.9,
+    "imdb": 4.9,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Meet Dave",
+    "year": 2008,
+    "douban": 6.9,
+    "imdb": 4.9,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Meet Dave",
+    "year": 2008,
+    "douban": 6.9,
+    "imdb": 4.9,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Meet Dave",
+    "year": 2008,
+    "douban": 6.9,
+    "imdb": 4.9,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Return to Never Land",
+    "year": 2002,
+    "douban": 7.8,
+    "imdb": 5.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Last Holiday",
+    "year": 2006,
+    "douban": 8.4,
+    "imdb": 6.4,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "Return to Never Land",
+    "year": 2002,
+    "douban": 7.8,
+    "imdb": 5.8,
+    "diff": 2.0
+  },
+  {
+    "genre": "All",
+    "title": "The Day After Tomorrow",
+    "year": 2004,
+    "douban": 8.3,
+    "imdb": 6.4,
+    "diff": 1.9000000000000004
+  },
+  {
+    "genre": "All",
+    "title": "Oldboy",
+    "year": 2003,
+    "douban": 6.5,
+    "imdb": 8.4,
+    "diff": -1.9000000000000004
+  },
+  {
+    "genre": "All",
+    "title": "The Day After Tomorrow",
+    "year": 2004,
+    "douban": 8.3,
+    "imdb": 6.4,
+    "diff": 1.9000000000000004
+  },
+  {
+    "genre": "All",
+    "title": "The Day After Tomorrow",
+    "year": 2004,
+    "douban": 8.3,
+    "imdb": 6.4,
+    "diff": 1.9000000000000004
+  },
+  {
+    "genre": "All",
+    "title": "Oldboy",
+    "year": 2003,
+    "douban": 6.5,
+    "imdb": 8.4,
+    "diff": -1.9000000000000004
+  },
+  {
+    "genre": "All",
+    "title": "Oldboy",
+    "year": 2003,
+    "douban": 6.5,
+    "imdb": 8.4,
+    "diff": -1.9000000000000004
+  },
+  {
+    "genre": "All",
+    "title": "The Day After Tomorrow",
+    "year": 2004,
+    "douban": 8.3,
+    "imdb": 6.4,
+    "diff": 1.9000000000000004
+  },
+  {
+    "genre": "All",
+    "title": "White Chicks",
+    "year": 2004,
+    "douban": 7.3,
+    "imdb": 5.4,
+    "diff": 1.8999999999999995
+  },
+  {
+    "genre": "All",
+    "title": "White Chicks",
+    "year": 2004,
+    "douban": 7.3,
+    "imdb": 5.4,
+    "diff": 1.8999999999999995
+  },
+  {
+    "genre": "All",
+    "title": "The Pink Panther",
+    "year": 2006,
+    "douban": 7.4,
+    "imdb": 5.6,
+    "diff": 1.8000000000000007
+  },
+  {
+    "genre": "All",
+    "title": "The Pink Panther",
+    "year": 2006,
+    "douban": 7.4,
+    "imdb": 5.6,
+    "diff": 1.8000000000000007
+  },
+  {
+    "genre": "All",
+    "title": "Life",
+    "year": 2017,
+    "douban": 6.5,
+    "imdb": 8.3,
+    "diff": -1.8000000000000007
+  },
+  {
+    "genre": "All",
+    "title": "Life",
+    "year": 2017,
+    "douban": 6.5,
+    "imdb": 8.3,
+    "diff": -1.8000000000000007
+  },
+  {
+    "genre": "All",
+    "title": "The Pink Panther",
+    "year": 2006,
+    "douban": 7.4,
+    "imdb": 5.6,
+    "diff": 1.8000000000000007
+  },
+  {
+    "genre": "All",
+    "title": "Life",
+    "year": 2017,
+    "douban": 6.5,
+    "imdb": 8.3,
+    "diff": -1.8000000000000007
+  },
+  {
+    "genre": "All",
+    "title": "The Pink Panther",
+    "year": 2006,
+    "douban": 7.4,
+    "imdb": 5.6,
+    "diff": 1.8000000000000007
+  },
+  {
+    "genre": "All",
+    "title": "The Pink Panther",
+    "year": 2006,
+    "douban": 7.4,
+    "imdb": 5.6,
+    "diff": 1.8000000000000007
+  },
+  {
+    "genre": "All",
+    "title": "One Missed Call",
+    "year": 2008,
+    "douban": 5.7,
+    "imdb": 3.9,
+    "diff": 1.8000000000000003
+  },
+  {
+    "genre": "All",
+    "title": "One Missed Call",
+    "year": 2008,
+    "douban": 5.7,
+    "imdb": 3.9,
+    "diff": 1.8000000000000003
+  },
+  {
+    "genre": "All",
+    "title": "Resident Evil: Apocalypse",
+    "year": 2004,
+    "douban": 8.0,
+    "imdb": 6.2,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "All",
+    "title": "The Twilight Saga: Breaking Dawn - Part 2",
+    "year": 2012,
+    "douban": 7.3,
+    "imdb": 5.5,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "All",
+    "title": "Titanic",
+    "year": 1997,
+    "douban": 9.5,
+    "imdb": 7.7,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "All",
+    "title": "Titanic",
+    "year": 1997,
+    "douban": 9.5,
+    "imdb": 7.7,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "All",
+    "title": "Resident Evil: Apocalypse",
+    "year": 2004,
+    "douban": 8.0,
+    "imdb": 6.2,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "All",
+    "title": "The Twilight Saga: Breaking Dawn - Part 2",
+    "year": 2012,
+    "douban": 7.3,
+    "imdb": 5.5,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "All",
+    "title": "The Twilight Saga: Breaking Dawn - Part 2",
+    "year": 2012,
+    "douban": 7.3,
+    "imdb": 5.5,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "All",
+    "title": "The Twilight Saga: Breaking Dawn - Part 2",
+    "year": 2012,
+    "douban": 7.3,
+    "imdb": 5.5,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "All",
+    "title": "Resident Evil: Apocalypse",
+    "year": 2004,
+    "douban": 8.0,
+    "imdb": 6.2,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "All",
+    "title": "Resident Evil: Apocalypse",
+    "year": 2004,
+    "douban": 8.0,
+    "imdb": 6.2,
+    "diff": 1.7999999999999998
+  },
+  {
+    "genre": "All",
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "year": 2015,
+    "douban": 7.7,
+    "imdb": 6.0,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "All",
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "year": 2015,
+    "douban": 7.7,
+    "imdb": 6.0,
+    "diff": 1.7000000000000002
+  },
+  {
+    "genre": "All",
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "year": 2015,
+    "douban": 7.7,
+    "imdb": 6.0,
+    "diff": 1.7000000000000002
+  }
+]

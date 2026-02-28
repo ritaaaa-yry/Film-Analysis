@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Review Explorer</title>
+
+  <!-- WordCloud2 -->
+  <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.min.js"></script>
+
+  <style>
+    body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial; background: #f6f7fb; }
+    .wrap { max-width: 1280px; margin: 0 auto; padding: 16px; }
+    .card { background:#fff; border-radius: 14px; padding: 14px; box-shadow: 0 6px 20px rgba(0,0,0,.06); }
+    .row { display:flex; gap: 12px; align-items:center; flex-wrap: wrap; margin-bottom: 10px; }
+    .row label { font-weight: 800; }
+    select { width: 320px; padding: 8px; border: 1px solid #ddd; border-radius: 10px; }
+    .meta { color:#6b7280; font-size: 13px; }
+
+    .cloud-pair { display:grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    @media (max-width: 960px) { .cloud-pair { grid-template-columns: 1fr; } }
+
+    .cloud-box { border:1px solid #eef0f5; border-radius: 14px; padding: 12px; }
+    .cloud-label { display:flex; align-items:center; justify-content: space-between; margin-bottom: 8px; }
+    .pill { display:inline-block; padding: 3px 8px; border-radius: 999px; background:#eef2ff; color:#3730a3; font-size: 12px; font-weight: 700; }
+
+    .canvas-wrap { width: 100%; height: 380px; border-radius: 12px; background:#fafafa; border: 1px dashed #e5e7eb; display:flex; }
+    canvas { width:100%; height:100%; }
+
+    .progress { margin-top: 8px; }
+    .progress .bar { height: 8px; background:#e5e7eb; border-radius: 999px; overflow:hidden; }
+    .progress .bar > div { height:100%; width:0%; background:#6366f1; transition: width .15s ease; }
+
+    .reviews { margin-top: 14px; border-top: 1px solid #eef0f5; padding-top: 10px; }
+    .review-item { border:1px solid #eef0f5; border-radius: 14px; padding: 12px; margin-top: 10px; }
+    .review-head { display:flex; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; }
+    .badge { background:#f3f4f6; color:#111827; border-radius:999px; padding: 2px 8px; font-size: 12px; }
+    .cn, .en { white-space: pre-wrap; line-height: 1.5; font-size: 14px; }
+    mark.kw { background: #fde68a; padding: 0 2px; border-radius: 4px; }
+
+    .btn { padding: 8px 12px; border: 1px solid #d1d5db; background: #fff; border-radius: 10px; font-weight: 700; cursor: pointer; }
+    .btn:disabled { opacity: .55; cursor: not-allowed; }
+    .btn:hover:not(:disabled) { background:#f3f4f6; }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <div class="card">
+      <div class="row">
+        <div>
+          <label for="genreSelect">Select Genre:</label><br/>
+          <select id="genreSelect">
+            <option value="">Loading genres...</option>
+          </select>
+        </div>
+        <div class="meta" id="metaText">Preparing…</div>
+      </div>
+
+      <div class="cloud-pair">
+        <div class="cloud-box">
+          <div class="cloud-label">
+            <span>Chinese Word Cloud</span>
+            <span class="pill" id="cnStatus">idle</span>
+          </div>
+          <div class="canvas-wrap">
+            <canvas id="cloudCanvas"></canvas>
+          </div>
+        </div>
+
+        <div class="cloud-box">
+          <div class="cloud-label">
+            <span>English Word Cloud (translated)</span>
+            <span class="pill" id="enStatus">idle</span>
+          </div>
+          <div class="canvas-wrap">
+            <canvas id="cloudCanvasEn"></canvas>
+          </div>
+          <div class="progress" id="enProgress" style="display:none;">
+            <span id="enProgressText">Translating…</span>
+            <div class="bar"><div id="enProgressBar"></div></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="reviews">
+        <h3>Top 20 Reviews (CN + EN) — keywords highlighted</h3>
+
+        <div class="row" style="margin-top:8px;">
+          <button id="translateReviewsBtn" class="btn" type="button" disabled>Translate reviews to English</button>
+          <span class="pill" id="reviewEnStatus">idle</span>
+        </div>
+        <div class="progress" id="reviewProgress" style="display:none; margin-top:6px;">
+          <span id="reviewProgressText">Translating reviews…</span>
+          <div class="bar"><div id="reviewProgressBar"></div></div>
+        </div>
+
+        <div class="meta" id="reviewHint"></div>
+        <div id="review-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="wordcloud_page.js"></script>
+</body>
+</html>

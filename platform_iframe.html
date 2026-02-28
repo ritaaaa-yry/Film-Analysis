@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Platform Explorer</title>
+
+  <!-- 复用你的全局样式 -->
+  <link rel="stylesheet" href="style_v2.css" />
+
+  <!-- Plotly -->
+  <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      background: #fff;
+      font-family: inherit;
+    }
+
+    #task2-chart {
+      width: 100%;
+      max-width: 1200px;
+      margin: 0 auto;     /* 居中 */
+      height: 560px;      /* 控制高度避免过大 */
+    }
+  </style>
+</head>
+
+<body>
+  <div style="width:100%; height:620px;">
+  <iframe 
+    src="platform_iframe.html"
+    style="
+      width:100%;
+      height:100%;
+      border:none;
+      background:white;
+    ">
+  </iframe>
+</div>
+
+
+</body>
+</html>
